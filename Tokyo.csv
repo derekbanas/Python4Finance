@@ -1,0 +1,1737 @@
+Company,Ticker,Sector
+Toyota Motor Corporation,7203.T,Consumer Discretionary
+Keyence Corporation,6861.T,Information Technology
+Sony Corporation,6758.T,Consumer Discretionary
+"NTT DOCOMO, INC",9437.T,Communication Services
+"Recruit Holdings Co., Ltd",6098.T,Industrials
+Nippon Telegraph and Telephone Corporation,9432.T,Communication Services
+SoftBank Group Corp,9984.T,Communication Services
+"Mitsubishi UFJ Financial Group, Inc",8306.T,Financials
+KDDI Corporation,9433.T,Communication Services
+"Shin-Etsu Chemical Co., Ltd",4063.T,Materials
+"Fast Retailing Co., Ltd",9983.T,Consumer Discretionary
+Tokyo Electron Limited,8035.T,Information Technology
+"Daikin Industries,Ltd",6367.T,Industrials
+Softbank Corp,9434.T,Communication Services
+Nidec Corporation,6594.T,Industrials
+"Chugai Pharmaceutical Co., Ltd",4519.T,Health Care
+"Hitachi, Ltd",6501.T,Industrials
+HOYA Corporation,7741.T,Health Care
+"Nintendo Co., Ltd",7974.T,Communication Services
+"Honda Motor Co., Ltd",7267.T,Consumer Discretionary
+"Oriental Land Co., Ltd",4661.T,Consumer Discretionary
+DENSO Corporation,6902.T,Consumer Discretionary
+"Murata Manufacturing Co., Ltd",6981.T,Information Technology
+Mitsubishi Corporation,8058.T,Industrials
+"Sumitomo Mitsui Financial Group, Inc",8316.T,Financials
+Yahoo Japan Corporation,4689.T,Communication Services
+Takeda Pharmaceutical Company Limited,4502.T,Health Care
+"Daiichi Sankyo Company, Limited",4568.T,Health Care
+ITOCHU Corporation,8001.T,Industrials
+"M3, Inc",2413.T,Health Care
+Fanuc Corporation,6954.T,Industrials
+"Mitsui & Co., Ltd",8031.T,Industrials
+"Tokio Marine Holdings, Inc",8766.T,Financials
+"Seven & i Holdings Co., Ltd",3382.T,Consumer Staples
+SMC Corporation,6273.T,Industrials
+"Mizuho Financial Group, Inc",8411.T,Financials
+Japan Tobacco Inc,2914.T,Consumer Staples
+Fujitsu Limited,6702.T,Information Technology
+Terumo Corporation,4543.T,Health Care
+Bridgestone Corporation,5108.T,Consumer Discretionary
+Astellas Pharma Inc,4503.T,Health Care
+"JAPAN POST BANK Co.,Ltd",7182.T,Financials
+FUJIFILM Holdings Corporation,4901.T,Information Technology
+"Japan Post Holdings Co., Ltd",6178.T,Financials
+Central Japan Railway Company,9022.T,Industrials
+Mitsubishi Electric Corporation,6503.T,Industrials
+Panasonic Corporation,6752.T,Consumer Discretionary
+Kao Corporation,4452.T,Consumer Staples
+Olympus Corporation,7733.T,Health Care
+NTT DATA Corporation,9613.T,Information Technology
+"Shiseido Company, Limited",4911.T,Consumer Staples
+Canon Inc,7751.T,Information Technology
+Sysmex Corporation,6869.T,Health Care
+Toyota Industries Corporation,6201.T,Consumer Discretionary
+Shimano Inc,7309.T,Consumer Discretionary
+Kubota Corporation,6326.T,Industrials
+East Japan Railway Company,9020.T,Industrials
+"Nippon Paint Holdings Co., Ltd",4612.T,Materials
+"Asahi Group Holdings, Ltd",2502.T,Consumer Staples
+Unicharm Corporation,8113.T,Consumer Staples
+"Dai-ichi Life Holdings, Inc",8750.T,Financials
+"Otsuka Holdings Co., Ltd",4578.T,Health Care
+ORIX Corporation,8591.T,Financials
+Komatsu Ltd,6301.T,Industrials
+Renesas Electronics Corporation,6723.T,Information Technology
+"Mitsui Fudosan Co., Ltd",8801.T,Real Estate
+"Daiwa House Industry Co.,Ltd",1925.T,Real Estate
+Suzuki Motor Corporation,7269.T,Consumer Discretionary
+Kyocera Corporation,6971.T,Information Technology
+"Nomura Research Institute, Ltd",4307.T,Information Technology
+"Nitori Holdings Co., Ltd",9843.T,Consumer Discretionary
+"Eisai Co., Ltd",4523.T,Health Care
+"Shionogi & Co., Ltd",4507.T,Health Care
+"Mitsubishi Estate Co., Ltd",8802.T,Real Estate
+"Nissan Motor Co., Ltd",7201.T,Consumer Discretionary
+"Aeon Co., Ltd",8267.T,Consumer Staples
+Toshiba Corporation,6502.T,Industrials
+Lasertec Corporation,6920.T,Information Technology
+"MS&AD Insurance Group Holdings, Inc",8725.T,Financials
+OMRON Corporation,6645.T,Information Technology
+Sumitomo Corporation,8053.T,Industrials
+"Kyowa Hakko Kirin Co., Ltd",4151.T,Health Care
+"Sumitomo Realty & Development Co., Ltd",8830.T,Real Estate
+"OBIC Co., Ltd",4684.T,Information Technology
+Sg Holdings Ltd,9143.T,Industrials
+Nippon Steel & Sumitomo Metal Corporation,5401.T,Materials
+"Ajinomoto Co., Inc",2802.T,Consumer Staples
+BANDAI NAMCO Holdings Inc,7832.T,Consumer Discretionary
+"SECOM CO., LTD",9735.T,Industrials
+"Sompo Holdings, Inc",8630.T,Financials
+"Kirin Holdings Company, Limited",2503.T,Consumer Staples
+Toyota Tsusho Corporation,8015.T,Industrials
+"Nomura Holdings, Inc",8604.T,Financials
+Advantest Corporation,6857.T,Information Technology
+Kikkoman Corporation,2801.T,Consumer Staples
+Subaru Corporation,7270.T,Consumer Discretionary
+"Rakuten, Inc",4755.T,Consumer Discretionary
+Marubeni Corporation,8002.T,Industrials
+"NEXON Co., Ltd",3659.T,Communication Services
+NEC Corporation,6701.T,Information Technology
+Asahi Kasei Corporation,3407.T,Materials
+"Sekisui House, Ltd",1928.T,Consumer Discretionary
+"Don Quijote Holdings Co., Ltd",7532.T,Consumer Discretionary
+Makita Corporation,6586.T,Industrials
+"JXTG Holdings, Inc",5020.T,Energy
+"Japan Exchange Group, Inc",8697.T,Financials
+"Sumitomo Mitsui Trust Holdings, Inc",8309.T,Financials
+Inpex Corporation,1605.T,Energy
+Suntory Beverage & Food Limited,2587.T,Consumer Staples
+TDK Corporation,6762.T,Information Technology
+Mitsubishi Chemical Holdings Corporation,4188.T,Materials
+Shimadzu Corporation,7701.T,Information Technology
+AGC Inc,5201.T,Industrials
+LINE Corporation,3938.T,Communication Services
+ANA Holdings Inc,9202.T,Industrials
+Oracle Corporation Japan,4716.T,Information Technology
+Nippon Yusen Kabushiki Kaisha,9101.T,Industrials
+MISUMI Group Inc,9962.T,Industrials
+YASKAWA Electric Corporation,6506.T,Industrials
+"MonotaRO Co., Ltd",3064.T,Industrials
+"Daifuku Co., Ltd",6383.T,Industrials
+"ZOZO, Inc",3092.T,Consumer Discretionary
+Yamaha Corporation,7951.T,Consumer Discretionary
+"Ono Pharmaceutical Co., Ltd",4528.T,Health Care
+"Sumitomo Electric Industries, Ltd",5802.T,Consumer Discretionary
+Taiyo Nippon Sanso Corporation,4091.T,Materials
+Nippon Building Fund Incorporation,8951.T,Real Estate
+"Sumitomo Metal Mining Co., Ltd",5713.T,Materials
+"Toray Industries, Inc",3402.T,Materials
+Dentsu Inc,4324.T,Communication Services
+"FamilyMart UNY Holdings Co., Ltd",8028.T,Consumer Staples
+Isuzu Motors Limited,7202.T,Consumer Discretionary
+Nitto Denko Corporation,6988.T,Materials
+Sony Financial Holdings Inc,8729.T,Financials
+Mitsubishi Tanabe Pharma Corporation,4508.T,Health Care
+"Yamaha Motor Co., Ltd",7272.T,Consumer Discretionary
+"Aisin Seiki Co., Ltd",7259.T,Consumer Discretionary
+"Japan Airlines Co., Ltd",9201.T,Industrials
+MinebeaMitsumi Inc,6479.T,Industrials
+"Resona Holdings, Inc",8308.T,Financials
+Hitachi High-Technologies Corporation,8036.T,Information Technology
+Nihon M&A Center Inc,2127.T,Industrials
+"CyberAgent, Inc",4751.T,Communication Services
+"Koito Manufacturing Co., Ltd",7276.T,Consumer Discretionary
+Otsuka Corporation,4768.T,Information Technology
+West Japan Railway Company,9021.T,Industrials
+Disco Corporation,6146.T,Information Technology
+"GMO Payment Gateway, Inc",3769.T,Information Technology
+"Meiji Holdings Co., Ltd",2269.T,Consumer Staples
+"Yamato Holdings Co., Ltd",9064.T,Industrials
+Mercari Inc,4385.T,Consumer Discretionary
+Daiwa Securities Group Inc,8601.T,Financials
+"Mitsubishi Heavy Industries, Ltd",7011.T,Industrials
+Hamamatsu Photonics K.K,6965.T,Information Technology
+"Chubu Electric Power Company, Incorporated",9502.T,Utilities
+"Idemitsu Kosan Co.,Ltd",5019.T,Energy
+"JFE Holdings, Inc",5411.T,Materials
+"The Kansai Electric Power Company, Incorporated",9503.T,Utilities
+"Hitachi Chemical Company, Ltd",4217.T,Materials
+Tokyu Corporation,9005.T,Industrials
+"ROHM Co., Ltd",6963.T,Information Technology
+"Sumitomo Chemical Company, Limited",4005.T,Materials
+"Nippon Prologis REIT, Inc",3283.T,Real Estate
+Japan Real Estate Investment Corporation,8952.T,Real Estate
+"Hitachi Metals, Ltd",5486.T,Materials
+Benefit One Inc,2412.T,Industrials
+"Yakult Honsha Co.,Ltd",2267.T,Consumer Staples
+"T&D Holdings, Inc",8795.T,Financials
+Nissan Chemical Corporation,4021.T,Materials
+"Toho Co., Ltd",9602.T,Communication Services
+"Nissin Foods Holdings Co., Ltd",2897.T,Consumer Staples
+Toto Ltd,5332.T,Industrials
+"Open House Co., Ltd",3288.T,Consumer Discretionary
+"Daito Trust Construction Co.,Ltd",1878.T,Real Estate
+"Odakyu Electric Railway Co., Ltd",9007.T,Industrials
+Mitsubishi UFJ Lease & Finance Company Limited,8593.T,Financials
+"Welcia Holdings Co., Ltd",3141.T,Consumer Staples
+Trend Micro Incorporated,4704.T,Information Technology
+"Tokyo Gas Co., Ltd",9531.T,Utilities
+LIXIL Group Corporation,5938.T,Industrials
+Sharp Corporation,6753.T,Consumer Discretionary
+Konami Holdings Corporation,9766.T,Communication Services
+"Mitsui O.S.K. Lines, Ltd",9104.T,Industrials
+"Koei Tecmo Holdings Co., Ltd",3635.T,Communication Services
+"Sekisui Chemical Co., Ltd",4204.T,Consumer Discretionary
+"Toei Animation Co.,Ltd",4816.T,Communication Services
+JSR Corporation,4185.T,Materials
+"Hankyu Hanshin Holdings, Inc",9042.T,Industrials
+"Osaka Gas Co., Ltd",9532.T,Utilities
+GLP J-REIT,3281.T,Real Estate
+ITOCHU Techno-Solutions Corporation,4739.T,Information Technology
+"Hikari Tsushin, Inc",9435.T,Consumer Discretionary
+"Ibiden Co., Ltd",4062.T,Information Technology
+"Iida Group Holdings Co., Ltd",3291.T,Consumer Discretionary
+"Japan Post Insurance Co., Ltd",7181.T,Financials
+"Kobe Bussan Co., Ltd",3038.T,Consumer Staples
+"Kakaku.com, Inc",2371.T,Communication Services
+"Ricoh Company, Ltd",7752.T,Information Technology
+KOSÉ Corporation,4922.T,Consumer Staples
+"Hulic Co., Ltd",3003.T,Real Estate
+"Nomura Real Estate Master Fund, Inc",3462.T,Real Estate
+"Asahi Intecc Co., Ltd",7747.T,Health Care
+Tokyo Century Corporation,8439.T,Financials
+Seiko Epson Corporation,6724.T,Information Technology
+"Taiyo Yuden Co., Ltd",6976.T,Information Technology
+"Sumitomo Dainippon Pharma Co., Ltd",4506.T,Health Care
+"Dai Nippon Printing Co., Ltd",7912.T,Industrials
+Taisei Corporation,1801.T,Industrials
+TIS Inc,3626.T,Information Technology
+Kajima Corporation,1812.T,Industrials
+"SBI Holdings, Inc",8473.T,Financials
+"Square Enix Holdings Co., Ltd",9684.T,Communication Services
+SCSK Corporation,9719.T,Information Technology
+"BayCurrent Consulting, Inc",6532.T,Industrials
+Daiwa House REIT Investment Corporation,8984.T,Real Estate
+Hoshizaki Corporation,6465.T,Industrials
+"Ito En, Ltd",2593.T,Consumer Staples
+"Mitsui Chemicals, Inc",4183.T,Materials
+COSMOS Pharmaceutical Corporation,3349.T,Consumer Staples
+"McDonald's Holdings Company (Japan), Ltd",2702.T,Consumer Discretionary
+"Kintetsu Group Holdings Co., Ltd",9041.T,Industrials
+"Fuji Electric Co., Ltd",6504.T,Industrials
+Keio Corporation,9008.T,Industrials
+"Kansai Paint Co., Ltd",4613.T,Materials
+"Nippon Express Co., Ltd",9062.T,Industrials
+"Hitachi Construction Machinery Co., Ltd",6305.T,Industrials
+Obayashi Corporation,1802.T,Industrials
+Hakuhodo DY Holdings Inc,2433.T,Communication Services
+"Kobayashi Pharmaceutical Co., Ltd",4967.T,Consumer Staples
+Tsuruha Holdings Inc,3391.T,Consumer Staples
+"Persol Holdings Co.,Ltd",2181.T,Industrials
+"Capcom Co., Ltd",9697.T,Communication Services
+Tosoh Corporation,4042.T,Materials
+"Hirose Electric Co.,Ltd",6806.T,Information Technology
+"Hino Motors, Ltd",7205.T,Industrials
+"Acom Co., Ltd",8572.T,Financials
+Mazda Motor Corporation,7261.T,Consumer Discretionary
+Shimizu Corporation,1803.T,Industrials
+Sumco Corporation,3436.T,Information Technology
+Showa Shell Sekiyu K.K,5002.T,Energy
+"Toppan Printing Co., Ltd",7911.T,Industrials
+"Brother Industries, Ltd",6448.T,Information Technology
+Azbil Corporation,6845.T,Information Technology
+"Santen Pharmaceutical Co., Ltd",4536.T,Health Care
+"Keisei Electric Railway Co., Ltd",9009.T,Industrials
+"Nippon Shinyaku Co., Ltd",4516.T,Health Care
+"Ryohin Keikaku Co., Ltd",7453.T,Consumer Discretionary
+"NGK Insulators, Ltd",5333.T,Industrials
+Kurita Water Industries Ltd,6370.T,Industrials
+"Tobu Railway Co., Ltd",9001.T,Industrials
+"Rakus Co., Ltd",3923.T,Information Technology
+"Tokyo Electric Power Company Holdings, Incorporated",9501.T,Utilities
+Sushiro Global Holdings Ltd,3563.T,Consumer Discretionary
+Rinnai Corporation,5947.T,Consumer Discretionary
+"Concordia Financial Group, Ltd",7186.T,Financials
+"Matsumotokiyoshi Holdings Co., Ltd",3088.T,Consumer Staples
+Japan Retail Fund Investment Corporation,8953.T,Real Estate
+"The Chiba Bank, Ltd",8331.T,Financials
+Oji Holdings Corporation,3861.T,Materials
+Yokogawa Electric Corporation,6841.T,Information Technology
+Nisshin Seifun Group Inc,2002.T,Consumer Staples
+POLA Orbis Holdings Inc,4927.T,Consumer Staples
+Lion Corporation,4912.T,Consumer Staples
+"The Shizuoka Bank, Ltd",8355.T,Financials
+"Lawson, Inc",2651.T,Consumer Staples
+Ebara Corporation,6361.T,Industrials
+ORIX JREIT Inc,8954.T,Real Estate
+"Japan Airport Terminal Co., Ltd",9706.T,Industrials
+Workman Ltd,7564.T,Consumer Discretionary
+"Taisho Pharmaceutical Holdings Co., Ltd",4581.T,Health Care
+"Sohgo Security Services Co.,Ltd",2331.T,Industrials
+"ABC-Mart, Inc",2670.T,Consumer Discretionary
+NOF Corporation,4403.T,Materials
+"Toyo Suisan Kaisha, Ltd",2875.T,Consumer Staples
+Mitsubishi Motors Corporation,7211.T,Consumer Discretionary
+"Kawasaki Kisen Kaisha, Ltd",9107.T,Industrials
+Advance Residence Investment Corporation,3269.T,Real Estate
+"Sugi Holdings Co.,Ltd",7649.T,Consumer Staples
+Tokyu Fudosan Holdings Corporation,3289.T,Real Estate
+Nippo Corporation,1881.T,Industrials
+"Shinko Electric Industries Co., Ltd",6967.T,Information Technology
+"Miura Co., Ltd",6005.T,Industrials
+"Nomura Real Estate Holdings, Inc",3231.T,Real Estate
+"Mitsubishi Gas Chemical Company, Inc",4182.T,Materials
+ASICS Corporation,7936.T,Consumer Discretionary
+Nikon Corporation,7731.T,Consumer Discretionary
+Sojitz Corporation,2768.T,Industrials
+Harmonic Drive Systems Inc,6324.T,Industrials
+"Marui Group Co., Ltd",8252.T,Consumer Discretionary
+Nabtesco Corporation,6268.T,Industrials
+Fancl Corporation,4921.T,Consumer Staples
+"USS Co., Ltd",4732.T,Consumer Discretionary
+"Stanley Electric Co., Ltd",6923.T,Consumer Discretionary
+MediPal Holdings Corporation,7459.T,Health Care
+Freee Kk,4478.T,Information Technology
+"Kawasaki Heavy Industries, Ltd",7012.T,Industrials
+United Urban Investment Corporation,8960.T,Real Estate
+"Sumitomo Forestry Co., Ltd",1911.T,Consumer Discretionary
+IHI Corporation,7013.T,Industrials
+"SCREEN Holdings Co., Ltd",7735.T,Information Technology
+"Toho Gas Co., Ltd",9533.T,Utilities
+Industrial & Infrastructure Fund Investment Corporation,3249.T,Real Estate
+Seibu Holdings Inc,9024.T,Industrials
+Kyushu Railway Company,9142.T,Industrials
+"Money Forward, Inc",3994.T,Information Technology
+NH Foods Ltd,2282.T,Consumer Staples
+"Fukuoka Financial Group, Inc",8354.T,Financials
+HASEKO Corporation,1808.T,Consumer Discretionary
+"Yamazaki Baking Co., Ltd",2212.T,Consumer Staples
+"Sundrug Co.,Ltd",9989.T,Consumer Staples
+"OBIC Business Consultants Co., Ltd",4733.T,Information Technology
+"Kyushu Electric Power Company, Incorporated",9508.T,Utilities
+NSK Ltd,6471.T,Industrials
+Showa Denko K.K,4004.T,Materials
+"Zensho Holdings Co., Ltd",7550.T,Consumer Discretionary
+"Hitachi Transport System, Ltd",9086.T,Industrials
+"Shinsei Bank, Limited",8303.T,Financials
+"Tohoku Electric Power Company, Incorporated",9506.T,Utilities
+"Casio Computer Co., Ltd",6952.T,Consumer Discretionary
+"Sekisui House Reit, Inc",3309.T,Real Estate
+"Amada Holdings Co., Ltd",6113.T,Industrials
+"The Bank of Kyoto, Ltd",8369.T,Financials
+"TechnoPro Holdings, Inc",6028.T,Industrials
+Kadokawa Dwango Corporation,9468.T,Communication Services
+Jmdc Inc,4483.T,Health Care
+Iwatani Corporation,8088.T,Energy
+Kinden Corporation,1944.T,Industrials
+Toyota Boshoku Corporation,3116.T,Consumer Discretionary
+SUMITOMO RUBBER INDUSTRIES LTD,5110.T,Consumer Discretionary
+Air Water Inc,4088.T,Materials
+Nichirei Corporation,2871.T,Consumer Staples
+Japan Prime Realty Investment Corporation,8955.T,Real Estate
+"SHIFT, Inc",3697.T,Information Technology
+"Rohto Pharmaceutical Co., Ltd",4527.T,Consumer Staples
+JEOL Ltd,6951.T,Health Care
+Hitachi Capital Corporation,8586.T,Financials
+"AEON Mall Co., Ltd",8905.T,Real Estate
+"Yamada Denki Co., Ltd",9831.T,Consumer Discretionary
+"Nagoya Railroad Co., Ltd",9048.T,Industrials
+Sansan Inc,4443.T,Information Technology
+Sega Sammy Holdings Inc,6460.T,Consumer Discretionary
+"Kuraray Co., Ltd",3405.T,Materials
+Kewpie Corporation,2809.T,Consumer Staples
+"ZENKOKU HOSHO Co.,Ltd",7164.T,Financials
+JustSystems Corporation,4686.T,Information Technology
+Nifco Inc,7988.T,Consumer Discretionary
+"Skylark Holdings Co., Ltd",3197.T,Consumer Discretionary
+COMSYS Holdings Corporation,1721.T,Industrials
+"Calbee, Inc",2229.T,Consumer Staples
+"The Chugoku Electric Power Co., Inc",9504.T,Utilities
+"Sumitomo Heavy Industries, Ltd",6302.T,Industrials
+Activia Properties Inc,3279.T,Real Estate
+Daiwa Office Investment Corporation,8976.T,Real Estate
+"SMS Co., Ltd",2175.T,Industrials
+"NGK Spark Plug Co., Ltd",5334.T,Consumer Discretionary
+Keikyu Corporation,9006.T,Industrials
+PeptiDream Inc,4587.T,Health Care
+"Relo Group, Inc",8876.T,Real Estate
+Takara Bio Inc,4974.T,Health Care
+"Tokyo Tatemono Co., Ltd",8804.T,Real Estate
+"JCR Pharmaceuticals Co., Ltd",4552.T,Health Care
+"SHIMAMURA Co., Ltd",8227.T,Consumer Discretionary
+JTEKT Corporation,6473.T,Consumer Discretionary
+Internet Initiative Japan Inc,3774.T,Communication Services
+Alfresa Holdings Corporation,2784.T,Health Care
+"RENOVA, Inc",9519.T,Utilities
+Daio Paper Corporation,3880.T,Materials
+House Foods Group Inc,2810.T,Consumer Staples
+Denka Company Limited,4061.T,Materials
+"The Yokohama Rubber Co., Ltd",5101.T,Consumer Discretionary
+LaSalle LOGIPORT REIT,3466.T,Real Estate
+"AEON Financial Service Co., Ltd",8570.T,Financials
+ZEON Corporation,4205.T,Materials
+NS Solutions Corporation,2327.T,Information Technology
+"Nippon Television Holdings, Inc",9404.T,Communication Services
+"Hisamitsu Pharmaceutical Co., Inc",4530.T,Health Care
+Canon Marketing Japan Inc,8060.T,Information Technology
+Paltac Corporation,8283.T,Consumer Discretionary
+"Aozora Bank, Ltd",8304.T,Financials
+"Morinaga Milk Industry Co., Ltd",2264.T,Consumer Staples
+"HORIBA, Ltd",6856.T,Information Technology
+"Keihan Holdings Co., Ltd",9045.T,Industrials
+Pigeon Corporation,7956.T,Consumer Staples
+FP Corporation,7947.T,Materials
+Kenedix Office Investment Corporation,8972.T,Real Estate
+"GMO Internet, Inc",9449.T,Information Technology
+Nippon Accommodations Fund Inc,3226.T,Real Estate
+Takara Holdings Inc,2531.T,Consumer Staples
+AEON REIT Investment Corporation,3292.T,Real Estate
+Mitsui Fudosan Logistics Park Inc,3471.T,Real Estate
+Katitas Ltd,8919.T,Real Estate
+Goldwin Inc,8111.T,Consumer Discretionary
+Isetan Mitsukoshi Holdings Ltd,3099.T,Consumer Discretionary
+"Konica Minolta, Inc",4902.T,Information Technology
+Sanwa Holdings Corporation,5929.T,Industrials
+Teijin Limited,3401.T,Materials
+"Menicon Co., Ltd",7780.T,Health Care
+NEC Networks & System Integration Corporation,1973.T,Information Technology
+Sankyu Inc,9065.T,Industrials
+"Nihon Unisys, Ltd",8056.T,Information Technology
+Nihon Kohden Corporation,6849.T,Health Care
+"ULVAC, Inc",6728.T,Information Technology
+"Seria Co., Ltd",2782.T,Consumer Discretionary
+"Toyo Tire & Rubber Co., Ltd",5105.T,Consumer Discretionary
+"THK Co., Ltd",6481.T,Industrials
+"Tokai Carbon Co., Ltd",5301.T,Materials
+Japan Hotel REIT Investment Corporation,8985.T,Real Estate
+"Net One Systems Co., Ltd",7518.T,Information Technology
+"Toyoda Gosei Co., Ltd",7282.T,Consumer Discretionary
+"Tokyo Broadcasting System Holdings, Inc",9401.T,Communication Services
+Kyowa Exeo Corporation,1951.T,Industrials
+"Electric Power Development Co., Ltd",9513.T,Utilities
+"Japan Logistics Fund, Inc",8967.T,Real Estate
+Fujitsu General Limited,6755.T,Consumer Discretionary
+DIC Corporation,4631.T,Materials
+Descente Ltd,8114.T,Consumer Discretionary
+Kaneka Corporation,4118.T,Materials
+"Seven Bank, Ltd",8410.T,Financials
+Coca-Cola Bottlers Japan Holdings Inc,2579.T,Consumer Staples
+Mitsubishi Materials Corporation,5711.T,Materials
+Mori Hills REIT Investment Corporation,3234.T,Real Estate
+"Ci:z Holdings Co., Ltd",4924.T,Consumer Staples
+Taiheiyo Cement Corporation,5233.T,Materials
+AS ONE Corporation,7476.T,Health Care
+Orient Corporation,8585.T,Financials
+"Suzuken Co., Ltd",9987.T,Health Care
+"PARK24 Co., Ltd",4666.T,Industrials
+Frontier Real Estate Investment Corporation,8964.T,Real Estate
+JGC Corporation,1963.T,Industrials
+"Mebuki Financial Group, Inc",7167.T,Financials
+"Ezaki Glico Co., Ltd",2206.T,Consumer Staples
+"Toei Company, Ltd",9605.T,Communication Services
+"Tokyo Ohka Kogyo Co., Ltd",4186.T,Materials
+"Nippon Electric Glass Co., Ltd",5214.T,Information Technology
+"J. Front Retailing Co., Ltd",3086.T,Consumer Discretionary
+"Ship Healthcare Holdings, Inc",3360.T,Health Care
+Anritsu Corporation,6754.T,Information Technology
+"Kamigumi Co., Ltd",9364.T,Industrials
+"Daiseki Co.,Ltd",9793.T,Industrials
+Daicel Corporation,4202.T,Materials
+"Fuji Media Holdings, Inc",4676.T,Communication Services
+"Mitsui High-tec, Inc",6966.T,Information Technology
+"SHO-BOND Holdings Co.,Ltd",1414.T,Industrials
+"Dowa Holdings Co., Ltd",5714.T,Materials
+"Toyo Seikan Group Holdings, Ltd",5901.T,Materials
+Invincible Investment Corporation,8963.T,Real Estate
+Toshiba Plant Systems & Services Corporation,1983.T,Industrials
+"Information Services International-Dentsu, Ltd",4812.T,Information Technology
+"Nankai Electric Railway Co., Ltd",9044.T,Industrials
+Tsumura & Co,4540.T,Health Care
+Mitsubishi Logistics Corporation,9301.T,Industrials
+Toshiba Tec Corporation,6588.T,Information Technology
+Kyudenko Corporation,1959.T,Industrials
+"Kagome Co., Ltd",2811.T,Consumer Staples
+"DeNA Co., Ltd",2432.T,Communication Services
+"Yaoko Co.,Ltd",8279.T,Consumer Staples
+"Mabuchi Motor Co., Ltd",6592.T,Industrials
+Ushio Inc,6925.T,Industrials
+"Izumi Co., Ltd",8273.T,Consumer Discretionary
+Fuji Corporation,6134.T,Industrials
+OUTSOURCING Inc,2427.T,Industrials
+"Seino Holdings Co., Ltd",9076.T,Industrials
+cocokara fine Inc,3098.T,Consumer Staples
+K's Holdings Corporation,8282.T,Consumer Discretionary
+"Kobe Steel, Ltd",5406.T,Materials
+Adeka Corporation,4401.T,Materials
+Kansai Mirai Financial Group Inc,7321.T,Financials
+"Benesse Holdings, Inc",9783.T,Consumer Discretionary
+Japan Rental Housing Investments Inc,8986.T,Real Estate
+"DMG Mori Co., Ltd",6141.T,Industrials
+"Hulic Reit, Inc",3295.T,Real Estate
+"Fuji Kyuko Co., Ltd",9010.T,Consumer Discretionary
+"Alps Alpine Co., Ltd",6770.T,Information Technology
+"Credit Saison Co.,Ltd",8253.T,Financials
+"Sawai Pharmaceutical Co., Ltd",4555.T,Health Care
+"Aica Kogyo Company, Limited",4206.T,Industrials
+Toda Corporation,1860.T,Industrials
+"Kusuri No Aoki Holdings Co., Ltd",3549.T,Consumer Staples
+DIP Corporation,2379.T,Communication Services
+"Create SD Holdings Co., Ltd",3148.T,Consumer Staples
+Infomart Corporation,2492.T,Information Technology
+"Fuyo General Lease Co., Ltd",8424.T,Financials
+"Nippon Shokubai Co., Ltd",4114.T,Materials
+"Nagase & Co., Ltd",8012.T,Industrials
+TORIDOLL Holdings Corporation,3397.T,Consumer Discretionary
+Sumitomo Bakelite Company Limited,4203.T,Materials
+"Yamato Kogyo Co., Ltd",5444.T,Materials
+"Digital Garage, Inc",4819.T,Information Technology
+NOK Corporation,7240.T,Consumer Discretionary
+Fuji Oil Holdings Inc,2607.T,Consumer Staples
+"Comforia Residential REIT, Inc",3282.T,Real Estate
+"ARIAKE JAPAN Co., Ltd",2815.T,Consumer Staples
+Ain Holdings Inc,9627.T,Consumer Staples
+"Daiichikosho Co., Ltd",7458.T,Communication Services
+"Kotobuki Spirits Co., Ltd",2222.T,Consumer Staples
+"Resorttrust, Inc",4681.T,Consumer Discretionary
+"Yume no Machi Souzou Iinkai Co., Ltd",2484.T,Consumer Discretionary
+"Penta-Ocean Construction Co., Ltd",1893.T,Industrials
+MIRAIT Holdings Corporation,1417.T,Industrials
+"The Japan Steel Works, Ltd",5631.T,Industrials
+D.A.Consortium Holdings Inc,6534.T,Consumer Discretionary
+"Ube Industries, Ltd",4208.T,Materials
+"Cosmo Energy Holdings Co., Ltd",5021.T,Energy
+"Rengo Co., Ltd",3941.T,Materials
+"Shimachu Co., Ltd",8184.T,Consumer Discretionary
+"Nishi-Nippon Railroad Co., Ltd",9031.T,Industrials
+Kenedix Residential Next Investment Corporation,3278.T,Real Estate
+"Japan Elevator Service Holdings Co., Ltd",6544.T,Industrials
+"Milbon Co., Ltd",4919.T,Consumer Staples
+Nakanishi Inc,7716.T,Health Care
+"Matsui Securities Co., Ltd",8628.T,Financials
+"Kokuyo Co., Ltd",7984.T,Industrials
+Maruichi Steel Tube Ltd,5463.T,Materials
+"Sotetsu Holdings, Inc",9003.T,Industrials
+Itoham Yonekyu Holdings Inc,2296.T,Consumer Staples
+IR Japan Holdings Ltd,6035.T,Industrials
+"Fujitec Co.,Ltd",6406.T,Industrials
+"UNIZO Holdings Company, Limited",3258.T,Real Estate
+Heiwa Corporation,6412.T,Consumer Discretionary
+West Holdings Corporation,1407.T,Utilities
+"Morinaga & Co., Ltd",2201.T,Consumer Staples
+"Nippon Kayaku Co., Ltd",4272.T,Materials
+GS Yuasa Corporation,6674.T,Industrials
+Sapporo Holdings Limited,2501.T,Consumer Staples
+"TS TECH Co., Ltd",7313.T,Consumer Discretionary
+Systena Corporation,2317.T,Information Technology
+"Sanrio Company, Ltd",8136.T,Consumer Discretionary
+"Invesco Office J-REIT, Inc",3298.T,Real Estate
+"Daido Steel Co., Ltd",5471.T,Materials
+"Takashimaya Company, Limited",8233.T,Consumer Discretionary
+MCUBS MidCity Investment Corporation,3227.T,Real Estate
+"The Hachijuni Bank, Ltd",8359.T,Financials
+Premier Investment Corporation,8956.T,Real Estate
+"Mani, Inc",7730.T,Health Care
+"NAGAWA Co., Ltd",9663.T,Consumer Discretionary
+Universal Entertainment Corporation,6425.T,Consumer Discretionary
+Topcon Corporation,7732.T,Information Technology
+"Kintetsu World Express, Inc",9375.T,Industrials
+Amano Corporation,6436.T,Information Technology
+en-japan inc,4849.T,Industrials
+"Nippon Suisan Kaisha, Ltd",1332.T,Consumer Staples
+"M&A Capital Partners Co.,Ltd",6080.T,Financials
+"NHK Spring Co., Ltd",5991.T,Consumer Discretionary
+"Maruwa Unyu Kikan Co.,Ltd",9090.T,Industrials
+"MORI TRUST Sogo Reit, Incorporation",8961.T,Real Estate
+Keihin Corporation,7251.T,Consumer Discretionary
+"Nishimatsu Construction Co., Ltd",1820.T,Industrials
+"The Hiroshima Bank, Ltd",8379.T,Financials
+"Fukuyama Transporting Co., Ltd",9075.T,Industrials
+NIPPON REIT Investment Corporation,3296.T,Real Estate
+Mitani Corporation,8066.T,Industrials
+Jtower Inc,4485.T,Industrials
+"mixi, Inc",2121.T,Communication Services
+"Kandenko Co., Ltd",1942.T,Industrials
+Parco Co. Ltd,8251.T,Consumer Discretionary
+Mitsubishi Estate Logistics REIT Investment Corporation,3481.T,Real Estate
+Nipro Corporation,8086.T,Health Care
+"H.I.S. Co., Ltd",9603.T,Consumer Discretionary
+"kabu.com Securities Co., Ltd",8703.T,Financials
+Aiful Corporation,8515.T,Financials
+"The Iyo Bank, Ltd",8385.T,Financials
+"Daiwabo Holdings Co., Ltd",3107.T,Information Technology
+"JAFCO Co., Ltd",8595.T,Financials
+"Noevir Holdings Co., Ltd",4928.T,Consumer Staples
+"Japan Excellent, Inc",8987.T,Real Estate
+Bic Camera Inc,3048.T,Consumer Discretionary
+"Mitsui Mining & Smelting Co., Ltd",5706.T,Materials
+TV Asahi Holdings Corporation,9409.T,Communication Services
+Fujikura Ltd,5803.T,Industrials
+Trusco Nakayama Corporation,9830.T,Industrials
+"Tokyu REIT, Inc",8957.T,Real Estate
+LINTEC Corporation,7966.T,Materials
+Fuji Soft Incorporated,9749.T,Information Technology
+"Kyushu Financial Group, Inc",7180.T,Financials
+Daibiru Corporation,8806.T,Real Estate
+SHOWA Corporation,7274.T,Consumer Discretionary
+"Fuso Chemical Co.,Ltd",4368.T,Materials
+"Gree, Inc",3632.T,Communication Services
+TKC Corporation,9746.T,Information Technology
+"Aeon Delight Co., Ltd",9787.T,Industrials
+"Tokyo Seimitsu Co., Ltd",7729.T,Information Technology
+"IBJ Leasing Company, Limited",8425.T,Financials
+OSG Corporation,6136.T,Industrials
+"MAEDA ROAD CONSTRUCTION Co., Ltd",1883.T,Industrials
+"Furukawa Electric Co., Ltd",5801.T,Industrials
+create restaurants holdings inc,3387.T,Consumer Discretionary
+Ichigo Inc,2337.T,Real Estate
+Meitec Corporation,9744.T,Industrials
+"Asahi Holdings, Inc",5857.T,Materials
+Nichias Corporation,5393.T,Industrials
+"Sankyo Co., Ltd",6417.T,Consumer Discretionary
+"Heiwa Real Estate REIT, Inc",8966.T,Real Estate
+Maeda Corporation,1824.T,Industrials
+Life Corporation,8194.T,Consumer Staples
+"Nippon Gas Co., Ltd",8174.T,Utilities
+Okuma Corporation,6103.T,Industrials
+"Monex Group, Inc",8698.T,Financials
+Kenedix Retail REIT Corporation,3453.T,Real Estate
+"Shochiku Co., Ltd",9601.T,Communication Services
+Oisix ra daichi Inc,3182.T,Consumer Discretionary
+"Kaken Pharmaceutical Co., Ltd",4521.T,Health Care
+"Yamaguchi Financial Group, Inc",8418.T,Financials
+ASKUL Corporation,2678.T,Consumer Discretionary
+"Kyoritsu Maintenance Co., Ltd",9616.T,Consumer Discretionary
+"DCM Holdings Co., Ltd",3050.T,Consumer Discretionary
+JINS Inc,3046.T,Consumer Discretionary
+Nippon Steel & Sumikin Bussan Corporation,9810.T,Industrials
+"Kenedix, Inc",4321.T,Real Estate
+"Toagosei Co., Ltd",4045.T,Materials
+"Towa Pharmaceutical Co., Ltd",4553.T,Health Care
+"BML, Inc",4694.T,Health Care
+"Hoshino Resorts REIT, Inc",3287.T,Real Estate
+"SBS Holdings, Inc",2384.T,Industrials
+"Elecom Co., Ltd",6750.T,Information Technology
+Raksul Inc,4384.T,Industrials
+Miraca Holdings Inc,4544.T,Health Care
+Aeon Hokkaido Corporation,7512.T,Consumer Staples
+Change Inc,3962.T,Information Technology
+"The Chugoku Bank, Limited",8382.T,Financials
+Rorze Corp,6323.T,Information Technology
+Sosei Group Corporation,4565.T,Health Care
+Fujimi Incorporated,5384.T,Materials
+"Citizen Watch Co., Ltd",7762.T,Information Technology
+"The Gunma Bank, Ltd",8334.T,Financials
+"Shikoku Electric Power Company, Incorporated",9507.T,Utilities
+Pilot Corporation,7846.T,Industrials
+"NEXTAGE Co., Ltd",3186.T,Consumer Discretionary
+"Macnica Fuji Electronics Holdings, Inc",3132.T,Information Technology
+Sakata Seed Corporation,1377.T,Consumer Staples
+Tokuyama Corporation,4043.T,Materials
+"Taiyo Holdings Co., Ltd",4626.T,Materials
+"NSD Co., Ltd",9759.T,Information Technology
+Okamura Corporation,7994.T,Industrials
+"Takasago Thermal Engineering Co., Ltd",1969.T,Industrials
+"Tokai Rika Co., Ltd",6995.T,Consumer Discretionary
+"Megmilk Snow Brand Co., Ltd",2270.T,Consumer Staples
+"ValueCommerce Co., Ltd",2491.T,Communication Services
+"Inaba Denki Sangyo Co.,Ltd",9934.T,Industrials
+"The Sumitomo Warehouse Co., Ltd",9303.T,Industrials
+transcosmos inc,9715.T,Information Technology
+"eREX Co.,Ltd",9517.T,Utilities
+Earth Corporation,4985.T,Consumer Staples
+Nisshinbo Holdings Inc,3105.T,Industrials
+"Nissin Kogyo Co., Ltd",7230.T,Consumer Discretionary
+"Japan Aviation Electronics Industry, Limited",6807.T,Information Technology
+Funai Soken Holdings Incorporated,9757.T,Industrials
+ATOM Corporation,7412.T,Consumer Discretionary
+"Fukuda Denshi Co., Ltd",6960.T,Health Care
+"Ichibanya Co., Ltd",7630.T,Consumer Discretionary
+"SENKO Group Holdings Co., Ltd",9069.T,Industrials
+"Nikkon Holdings Co., Ltd",9072.T,Industrials
+Kura Corporation,2695.T,Consumer Discretionary
+Glory Ltd,6457.T,Industrials
+Wacoal Holdings Corp,3591.T,Consumer Discretionary
+Tadano Ltd,6395.T,Industrials
+Hazama Ando Corporation,1719.T,Industrials
+"JAPAN MATERIAL Co., Ltd",6055.T,Information Technology
+Nojima Corporation,7419.T,Consumer Discretionary
+Hitachi Zosen Corporation,7004.T,Industrials
+"Nippon Paper Industries Co., Ltd",3863.T,Materials
+Kureha Corporation,4023.T,Materials
+CKD Corporation,6407.T,Industrials
+"Clarion Co., Ltd",6796.T,Consumer Discretionary
+Okinawa Cellular Telephone Company,9436.T,Communication Services
+"Nissin Electric Co.,Ltd",6641.T,Industrials
+"Mitani Sekisan Co., Ltd",5273.T,Materials
+"Prima Meat Packers, Ltd",2281.T,Consumer Staples
+"UT Group Co., Ltd",2146.T,Industrials
+Maruha Nichiro Corporation,1333.T,Consumer Staples
+"Yoshinoya Holdings Co., Ltd",9861.T,Consumer Discretionary
+UACJ Corporation,5741.T,Materials
+NTN Corporation,6472.T,Industrials
+Ichigo Office REIT Investment Corporation,8975.T,Real Estate
+"GungHo Online Entertainment, Inc",3765.T,Communication Services
+Starts Corporation Inc,8850.T,Real Estate
+"Hanwa Co., Ltd",8078.T,Industrials
+Fukuoka REIT Corporation,8968.T,Real Estate
+United Super Markets Holdings Inc,3222.T,Consumer Staples
+"Bengo4.com, Inc",6027.T,Communication Services
+"Saizeriya Co.,Ltd",7581.T,Consumer Discretionary
+"Fuji Seal International, Inc",7864.T,Materials
+"Kumagai Gumi Co.,Ltd",1861.T,Industrials
+"Duskin Co., Ltd",4665.T,Industrials
+SKY Perfect JSAT Holdings Inc,9412.T,Communication Services
+"Komeri Co.,Ltd",8218.T,Consumer Discretionary
+"Heiwa Real Estate Co., Ltd",8803.T,Real Estate
+Solasto Corporation,6197.T,Health Care
+"Sanken Electric Co., Ltd",6707.T,Information Technology
+"Nihon Parkerizing Co., Ltd",4095.T,Materials
+"Nitto Boseki Co., Ltd",3110.T,Industrials
+"Musashi Seimitsu Industry Co., Ltd",7220.T,Consumer Discretionary
+"Japan Petroleum Exploration Co., Ltd",1662.T,Energy
+Round One Corporation,4680.T,Consumer Discretionary
+"SAN-A CO.,LTD",2659.T,Consumer Staples
+"Maruwa Co., Ltd",5344.T,Information Technology
+"Valor Holdings Co., Ltd",9956.T,Consumer Staples
+"Takeuchi Mfg. Co., Ltd",6432.T,Industrials
+Pasona Group Inc,2168.T,Industrials
+"Tokyo Steel Manufacturing Co., Ltd",5423.T,Materials
+"APLUS FINANCIAL Co., Ltd",8589.T,Financials
+"Colowide Co.,Ltd",7616.T,Consumer Discretionary
+Infocom Corporation,4348.T,Information Technology
+Pressance Corporation,3254.T,Consumer Discretionary
+Dexerials Corporation,4980.T,Information Technology
+"Mitsubishi Shokuhin Co., Ltd",7451.T,Consumer Staples
+Token Corporation,1766.T,Consumer Discretionary
+"Toho Holdings Co., Ltd",8129.T,Health Care
+"Sumitomo Osaka Cement Co., Ltd",5232.T,Materials
+"Nippon Flour Mills Co., Ltd",2001.T,Consumer Staples
+"Shoei Co., Ltd",7839.T,Consumer Discretionary
+"Digital Arts, Inc",2326.T,Information Technology
+"Tokyotokeiba Co., Ltd",9672.T,Consumer Discretionary
+ARCS Company Limited,9948.T,Consumer Staples
+Chudenko Corporation,1941.T,Industrials
+Trust Tech Inc,2154.T,Industrials
+Pioneer Corporation,6773.T,Consumer Discretionary
+"MCJ Co., Ltd",6670.T,Information Technology
+Sanyo Chemical Industries Ltd,4471.T,Materials
+Hokuriku Electric Power Company,9505.T,Utilities
+"Mochida Pharmaceutical Co., Ltd",4534.T,Health Care
+Hioki E.E. Corporation,6866.T,Information Technology
+Tsubakimoto Chain Co,6371.T,Industrials
+Hokuetsu Corporation,3865.T,Materials
+Nohmi Bosai Ltd,6744.T,Information Technology
+Giken Ltd,6289.T,Industrials
+"Paramount Bed Holdings Co., Ltd",7817.T,Health Care
+"Nippon Light Metal Holdings Company, Ltd",5703.T,Materials
+"BELLSYSTEM24 Holdings, Inc",6183.T,Information Technology
+Future Corporation,4722.T,Information Technology
+"Toyobo Co., Ltd",3101.T,Materials
+"Daishi Hokuetsu Financial Group,Inc",7327.T,Financials
+Tokyo Dome Corporation,9681.T,Consumer Discretionary
+Medley Inc,4480.T,Health Care
+"Takuma Co., Ltd",6013.T,Industrials
+"Autobacs Seven Co., Ltd",9832.T,Consumer Discretionary
+"Itochu Enex Co.,Ltd",8133.T,Energy
+Cre Logistics Reit Inc,3487.T,Real Estate
+"Belc CO., LTD",9974.T,Consumer Staples
+"Nippon Densetsu Kogyo Co., Ltd",1950.T,Industrials
+TOKAI Holdings Corporation,3167.T,Industrials
+"Hankyu Hanshin REIT, Inc",8977.T,Real Estate
+"Mitsubishi Logisnext Co., Ltd",7105.T,Industrials
+"NOMURA Co., Ltd",9716.T,Industrials
+"Ricoh Leasing Company, Ltd",8566.T,Financials
+"Kato Sangyo Co., Ltd",9869.T,Consumer Staples
+"Wacom Co., Ltd",6727.T,Information Technology
+T-Gaia Corporation,3738.T,Consumer Discretionary
+"Seiren Co.,Ltd",3569.T,Consumer Discretionary
+Kanematsu Corporation,8020.T,Industrials
+Lixil Viva Corporation,3564.T,Consumer Discretionary
+EDION Corporation,2730.T,Consumer Discretionary
+Okumura Corporation,1833.T,Industrials
+"Toyo Ink SC Holdings Co., Ltd",4634.T,Materials
+DTS Corporation,9682.T,Information Technology
+Toyo Gosei Ltd,4970.T,Materials
+"Kohnan Shoji Co., Ltd",7516.T,Consumer Discretionary
+Ferrotec Holdings Corporation,6890.T,Information Technology
+"Toppan Forms Co., Ltd",7862.T,Industrials
+"Hokuhoku Financial Group, Inc",8377.T,Financials
+Ohsho Food Service Corp,9936.T,Consumer Discretionary
+"Takara Standard Co.,Ltd",7981.T,Industrials
+Link and Motivation Inc,2170.T,Industrials
+Taikisha Ltd,1979.T,Industrials
+"KH Neochem Co., Ltd",4189.T,Materials
+Nichiha Corporation,7943.T,Industrials
+H2O Retailing Corporation,8242.T,Consumer Discretionary
+DAIHEN Corporation,6622.T,Industrials
+"Alpen Co., Ltd",3028.T,Consumer Discretionary
+"eGuarantee, Inc",8771.T,Financials
+"Kissei Pharmaceutical Co., Ltd",4547.T,Health Care
+"T. Hasegawa Co., Ltd",4958.T,Materials
+Giftee Inc,4449.T,Communication Services
+"MODEC, Inc",6269.T,Energy
+JCU Corporation,4975.T,Materials
+Global One Real Estate Investment Corp,8958.T,Real Estate
+"NichiiGakkan Co., Ltd",9792.T,Health Care
+"Joyful Honda Co., Ltd",3191.T,Consumer Discretionary
+MEIDENSHA CORP,6508.T,Industrials
+"Nissan Shatai Co., Ltd",7222.T,Consumer Discretionary
+Optim Corp,3694.T,Information Technology
+"Cybozu, Inc",4776.T,Information Technology
+"Hokkaido Electric Power Company, Incorporated",9509.T,Utilities
+Chiyoda Corporation,6366.T,Industrials
+Kanematsu Electronics Ltd,8096.T,Information Technology
+"Kumiai Chemical Industry Co., Ltd",4996.T,Materials
+"JACCS Co., Ltd",8584.T,Financials
+"COLOPL, Inc",3668.T,Communication Services
+"Nishi-Nippon Financial Holdings, Inc",7189.T,Financials
+"Heiwado Co., Ltd",8276.T,Consumer Staples
+Zojirushi Corporation,7965.T,Consumer Discretionary
+"Japan Lifeline Co., Ltd",7575.T,Health Care
+Star Asia Investment Corporation,3468.T,Real Estate
+"Iriso Electronics Co., Ltd",6908.T,Information Technology
+"The Kiyo Bank, Ltd",8370.T,Financials
+"Kintetsu Department Store Co., Ltd",8244.T,Consumer Discretionary
+"Raito Kogyo Co., Ltd",1926.T,Industrials
+Ai Holdings Corporation,3076.T,Information Technology
+"Inabata & Co.,Ltd",8098.T,Industrials
+Tri Chemical Laboratories Inc,4369.T,Information Technology
+"KYORIN Holdings, Inc",4569.T,Health Care
+"Tokai Tokyo Financial Holdings, Inc",8616.T,Financials
+"Nippon Kanzai Co., Ltd",9728.T,Industrials
+Suruga Bank Ltd,8358.T,Financials
+"TOMY Company, Ltd",7867.T,Consumer Discretionary
+Healios K.K,4593.T,Health Care
+Sosila Logistics Reit Inc,2979.T,Real Estate
+"San-Ai Oil Co.,Ltd",8097.T,Energy
+"Maeda Kosen Co., Ltd",7821.T,Materials
+Nachi-Fujikoshi Corp,6474.T,Industrials
+Gmo Financial Holdings Inc Common Stock Jpy,7177.T,Financials
+"Mos Food Services, Inc",8153.T,Consumer Discretionary
+Prestige International Inc,4290.T,Industrials
+"The Shiga Bank, Ltd",8366.T,Financials
+"KOMEDA Holdings Co., Ltd",3543.T,Consumer Discretionary
+"Sakai Moving Service Co.,Ltd",9039.T,Industrials
+Yokogawa Bridge Holdings Corp,5911.T,Industrials
+"Makino Milling Machine Co., Ltd",6135.T,Industrials
+"Kanamoto Co.,Ltd",9678.T,Industrials
+"Kameda Seika CO., Ltd",2220.T,Consumer Staples
+"Sanyo Special Steel Co., Ltd",5481.T,Materials
+"North Pacific Bank, Ltd",8524.T,Financials
+Optorun Ltd,6235.T,Information Technology
+"The Nisshin OilliO Group,Ltd",2602.T,Consumer Staples
+Yamazen Corporation,8051.T,Industrials
+"Nippon Soda Co., Ltd",4041.T,Materials
+"Fullcast Holdings Co., Ltd",4848.T,Industrials
+"Shizuoka Gas Co., Ltd",9543.T,Utilities
+"Samty Co., Ltd",3244.T,Real Estate
+Seiko Holdings Corporation,8050.T,Consumer Discretionary
+"Showa Sangyo Co., Ltd",2004.T,Consumer Staples
+"The 77 Bank, Ltd",8341.T,Financials
+Fukushima Industries Corp,6420.T,Industrials
+G-7 Holdings Inc,7508.T,Consumer Staples
+S-Pool Inc,2471.T,Industrials
+Zuken Inc,6947.T,Information Technology
+Itochu Advance Logistics Investmen,3493.T,Real Estate
+"Euglena Co., Ltd",2931.T,Consumer Staples
+Maxvalu Tokai Ltd,8198.T,Consumer Staples
+S Foods Inc,2292.T,Consumer Staples
+"Daikokutenbussan Co.,Ltd",2791.T,Consumer Staples
+Sangetsu Corporation,8130.T,Consumer Discretionary
+Comture Corporation,3844.T,Information Technology
+EIZO Corporation,6737.T,Information Technology
+Insource Ltd,6200.T,Industrials
+"Zeria Pharmaceutical Co., Ltd",4559.T,Health Care
+CYBERDYNE Inc,7779.T,Health Care
+"Globeride, Inc",7990.T,Consumer Discretionary
+"NS United Kaiun Kaisha, Ltd",9110.T,Industrials
+"Hogy Medical Co.,Ltd",3593.T,Health Care
+"AnGes, Inc",4563.T,Health Care
+"Royal Holdings Co., Ltd",8179.T,Consumer Discretionary
+MIRAI Corporation,3476.T,Real Estate
+Curves Holdings Ltd,7085.T,Consumer Discretionary
+"The Awa Bank, Limited",8388.T,Financials
+"JAC Recruitment Co., Ltd",2124.T,Industrials
+The Monogatari Corporation,3097.T,Consumer Discretionary
+Evolable Asia Corp,6191.T,Unknown
+"The San-in Godo Bank,Ltd",8381.T,Financials
+Yellow Hat Ltd,9882.T,Consumer Discretionary
+IDOM Inc,7599.T,Consumer Discretionary
+"Nishimatsuya Chain Co., Ltd",7545.T,Consumer Discretionary
+"Fujimori Kogyo Co., Ltd",7917.T,Materials
+"DyDo Group Holdings, Inc",2590.T,Consumer Staples
+"Toho Titanium Co., Ltd",5727.T,Materials
+"Adastria Co., Ltd",2685.T,Consumer Discretionary
+"Totetsu Kogyo Co., Ltd",1835.T,Industrials
+Sekisui Jushi Corporation,4212.T,Industrials
+"Saibu Gas Co.,Ltd",9536.T,Utilities
+"Nissha Co., Ltd",7915.T,Information Technology
+Sato Holdings Corporation,6287.T,Industrials
+"MATSUDA SANGYO Co., Ltd",7456.T,Industrials
+"Ki-Star Real Estate Co.,Ltd",3465.T,Unknown
+"The Hyakugo Bank, Ltd",8368.T,Financials
+"Tokyu Construction Co., Ltd",1720.T,Industrials
+"Central Glass Co., Ltd",4044.T,Industrials
+Noritz Corporation,5943.T,Industrials
+"Fukui Computer Holdings,Inc",9790.T,Information Technology
+"Sanki Engineering Co., Ltd",1961.T,Industrials
+"Mitsuuroko Group Holdings Co.,Ltd",8131.T,Energy
+Axial Retailing Inc,8255.T,Consumer Staples
+"Trancom Co., Ltd",9058.T,Industrials
+"The Juroku Bank, Ltd",8356.T,Financials
+"Torii Pharmaceutical Co., Ltd",4551.T,Health Care
+"Max Co., Ltd",6454.T,Industrials
+"Oki Electric Industry Co., Ltd",6703.T,Information Technology
+Leopalace21 Corporation,8848.T,Real Estate
+Arteria Networks Corp,4423.T,Communication Services
+EXEDY Corporation,7278.T,Consumer Discretionary
+OpenDoor Inc,3926.T,Consumer Discretionary
+"The Ogaki Kyoritsu Bank, Ltd",8361.T,Financials
+Shibuya Corporation,6340.T,Industrials
+"F.C.C. Co., Ltd",7296.T,Consumer Discretionary
+"Noritsu Koki Co., Ltd",7744.T,Industrials
+"Uzabase, Inc",3966.T,Financials
+GNI Group Ltd,2160.T,Health Care
+"Belluna Co., Ltd",9997.T,Consumer Discretionary
+Plenus Company Limited,9945.T,Consumer Discretionary
+"Yumeshin Holdings Co.,Ltd",2362.T,Industrials
+"Shin-Etsu Polymer Co.,Ltd",7970.T,Materials
+"Sumitomo Mitsui Construction Co.,Ltd",1821.T,Industrials
+"C. Uyemura & Co., Ltd",4966.T,Materials
+"METAWATER Co., Ltd",9551.T,Industrials
+"EPS Holdings, Inc",4282.T,Health Care
+KYB Corporation,7242.T,Consumer Discretionary
+"Strike Company,Limited",6196.T,Financials
+"Kaga Electronics Co.,Ltd",8154.T,Information Technology
+Riso Kagaku Corporation,6413.T,Information Technology
+GENKY DRUGSTORES LTD,9267.T,Consumer Staples
+"Relia, Inc",4708.T,Information Technology
+"The Okinawa Electric Power Company, Incorporated",9511.T,Utilities
+"Japan Securities Finance Co., Ltd",8511.T,Financials
+"Sumitomo Densetsu Co., Ltd",1949.T,Industrials
+Okasan Securities Group Inc,8609.T,Financials
+"Nishio Rent All Co., Ltd",9699.T,Industrials
+"Fuji Co., Ltd",8278.T,Consumer Staples
+Daiki Aluminium Industry Co Ltd,5702.T,Unknown
+Tokai Corp,9729.T,Health Care
+ES-CON JAPAN Ltd,8892.T,Consumer Discretionary
+Sumitomo Riko Company Limited,5191.T,Consumer Discretionary
+"DOUTOR NICHIRES Holdings Co., Ltd",3087.T,Consumer Discretionary
+"Mitsubishi Pencil Co., Ltd",7976.T,Industrials
+"Nagaileben Co., Ltd",7447.T,Health Care
+Shikoku Chemicals Corporation,4099.T,Materials
+"Sanyo Denki Co., Ltd",6516.T,Industrials
+"Sogo Medical Holdings Co.,Ltd",9277.T,Consumer Staples
+"Bunka Shutter Co., Ltd",5930.T,Industrials
+SHIMA SEIKI MFG LTD,6222.T,Industrials
+"TOCALO Co., Ltd",3433.T,Industrials
+Nitta Corporation,5186.T,Industrials
+"Nittoku Engineering Co., Ltd",6145.T,Industrials
+"Okamoto Industries, Inc",5122.T,Materials
+Samty Residential Investment Corporation,3459.T,Real Estate
+"PAL GROUP Holdings CO., LTD",2726.T,Consumer Discretionary
+"Meiko Electronics Co., Ltd",6787.T,Information Technology
+Tsugami Corporation,6101.T,Industrials
+Osaka Organic Chemical Ind,4187.T,Materials
+"Anicom Holdings, Inc",8715.T,Financials
+"Nippon Ceramic Co., Ltd",6929.T,Information Technology
+Tama Home Co Ltd,1419.T,Consumer Discretionary
+Organo Corporation,6368.T,Industrials
+Weathernews Inc,4825.T,Industrials
+LitaLico Inc,6187.T,Consumer Discretionary
+Gunze Limited,3002.T,Consumer Discretionary
+"Mimasu Semiconductor Industry Co., Ltd",8155.T,Information Technology
+"Arcland Service Holdings Co., Ltd",3085.T,Consumer Discretionary
+"Nippon Seiki Co., Ltd",7287.T,Consumer Discretionary
+"RS Technologies Co., Ltd",3445.T,Information Technology
+Elan Corp,6099.T,Health Care
+"Japan Asset Marketing Co., Ltd",8922.T,Real Estate
+"THE NIPPON ROAD Co., Ltd",1884.T,Industrials
+TechMatrix Corporation,3762.T,Information Technology
+Arata Corporation,2733.T,Consumer Discretionary
+"Tosho Co., Ltd",8920.T,Consumer Discretionary
+"Chofu Seisakusho Co., Ltd",5946.T,Consumer Discretionary
+"Pacific Industrial Co., Ltd",7250.T,Consumer Discretionary
+"Mitsubishi Research Institute, Inc",3636.T,Information Technology
+"Eiken Chemical Co., Ltd",4549.T,Health Care
+Conexio Corporation,9422.T,Information Technology
+Hi-Lex Corporation,7279.T,Consumer Discretionary
+Mandom Corporation,4917.T,Consumer Staples
+NICHIDEN Corporation,9902.T,Industrials
+"Takamatsu Construction Group Co., Ltd",1762.T,Industrials
+"One REIT, Inc",3290.T,Real Estate
+Nichicon Corporation,6996.T,Information Technology
+"Keihanshin Building Co., Ltd",8818.T,Real Estate
+"Matsuya Foods Holdings Co., Ltd",9887.T,Consumer Discretionary
+"Nikkiso Co., Ltd",6376.T,Industrials
+Tokyo Electron Device Limited,2760.T,Unknown
+"Noritake Co., Limited",5331.T,Industrials
+"MORI TRUST Hotel Reit, Inc",3478.T,Real Estate
+"Riken Keiki Co., Ltd",7734.T,Information Technology
+Hirata Corporation,6258.T,Industrials
+Melco Holdings Inc,6676.T,Information Technology
+"Riso Kyoiku Co., Ltd",4714.T,Consumer Discretionary
+"MEDIA DO HOLDINGS Co., Ltd",3678.T,Consumer Discretionary
+"Maruzen Showa Unyu Co., Ltd",9068.T,Industrials
+MegaChips Corporation,6875.T,Information Technology
+"Yodogawa Steel Works, Ltd",5451.T,Materials
+Shoei Foods Corporation,8079.T,Consumer Staples
+"Arcland Sakamoto Co.,Ltd",9842.T,Consumer Discretionary
+Nitto Kogyo Corporation,6651.T,Industrials
+"The Japan Wool Textile Co., Ltd",3201.T,Consumer Discretionary
+Topre Corporation,5975.T,Consumer Discretionary
+"KFC Holdings Japan, Ltd",9873.T,Consumer Discretionary
+ARGO GRAPHICS Inc,7595.T,Information Technology
+"The Bank of Okinawa, Ltd",8397.T,Financials
+TKP Corporation,3479.T,Real Estate
+"Kappa-Create Co., Ltd",7421.T,Consumer Discretionary
+INTAGE HOLDINGS Inc,4326.T,Consumer Discretionary
+"WDB Holdings Co., Ltd",2475.T,Industrials
+Vision Inc,9416.T,Communication Services
+Morita Holdings Corporation,6455.T,Industrials
+"The Nanto Bank, Ltd",8367.T,Financials
+KITZ Corporation,6498.T,Industrials
+"Yuasa Trading Co., Ltd",8074.T,Industrials
+Ya-Man Ltd,6630.T,Consumer Staples
+Toenec Corporation,1946.T,Industrials
+Sakata INX Corporation,4633.T,Materials
+"Mitsui Sugar Co., Ltd",2109.T,Consumer Staples
+"Asunaro Aoki Construction Co., Ltd",1865.T,Unknown
+"ITOCHU-SHOKUHIN Co., Ltd",2692.T,Consumer Staples
+Mizuno Corporation,8022.T,Consumer Discretionary
+Wowow Inc,4839.T,Communication Services
+Tsukui Corporation,2398.T,Health Care
+Canon Electronics Inc,7739.T,Information Technology
+"Shinko Plantech Co., Ltd",6379.T,Industrials
+"YONEX Co., Ltd",7906.T,Consumer Discretionary
+"Maxell Holdings, Ltd",6810.T,Information Technology
+"Kyokuto Kaihatsu Kogyo Co., Ltd",7226.T,Industrials
+"Mitsui Home Co., Ltd",1868.T,Unknown
+"Joshin Denki Co., Ltd",8173.T,Consumer Discretionary
+"Konoike Transport Co., Ltd",9025.T,Industrials
+"Konishi Co., Ltd",4956.T,Materials
+Daiho Corporation,1822.T,Industrials
+Daiwa Industries Ltd,6459.T,Industrials
+"SWCC Showa Holdings Co., Ltd",5805.T,Industrials
+Avex Inc,7860.T,Communication Services
+"Shibaura Machine Co., Ltd",6104.T,Industrials
+Hiday Hidaka Corp,7611.T,Consumer Discretionary
+"Nichi-Iko Pharmaceutical Co., Ltd",4541.T,Health Care
+Sun Corporation,6736.T,Information Technology
+GCA Corporation,2174.T,Unknown
+Starts Proceed Investment Corporation,8979.T,Real Estate
+"Inageya Co., Ltd",8182.T,Consumer Staples
+"ShinMaywa Industries, Ltd",7224.T,Industrials
+Tenma Corporation,7958.T,Materials
+Union Tool Co,6278.T,Industrials
+TV TOKYO Holdings Corporation,9413.T,Consumer Discretionary
+Hokuto Corporation,1379.T,Consumer Staples
+"Fujiya Co., Ltd",2211.T,Consumer Staples
+"The Hokkoku Bank, Ltd",8363.T,Financials
+Aucnet Inc,3964.T,Information Technology
+"TOC Co., Ltd",8841.T,Real Estate
+"The Musashino Bank, Ltd",8336.T,Financials
+IDEC Corporation,6652.T,Industrials
+"Osaka Soda Co., Ltd",4046.T,Materials
+G-Tekt Corporation,5970.T,Consumer Discretionary
+"Hamakyorex Co., Ltd",9037.T,Industrials
+"Financial Products Group Co., Ltd",7148.T,Financials
+Kyoei Steel Ltd,5440.T,Materials
+"Septeni Holdings Co., Ltd",4293.T,Communication Services
+Alpha Systems Inc,4719.T,Information Technology
+Pia Corp,4337.T,Consumer Discretionary
+"J-Oil Mills, Inc",2613.T,Consumer Staples
+"Tosho Printing Company, Limited",7913.T,Industrials
+Kitanotatsujin Corporation,2930.T,Consumer Staples
+"Tsubaki Nakashima Co., Ltd",6464.T,Industrials
+"Toyo Tanso Co., Ltd",5310.T,Industrials
+"Vt Holdings Co.,Ltd",7593.T,Consumer Discretionary
+KOA Corporation,6999.T,Information Technology
+Tamura Corporation,6768.T,Information Technology
+"J Trust Co., Ltd",8508.T,Financials
+"Eagle Industry Co.,Ltd",6486.T,Consumer Discretionary
+"Riken Vitamin Co., Ltd",4526.T,Consumer Staples
+"Halows Co.,Ltd",2742.T,Consumer Staples
+Proto Corporation,4298.T,Communication Services
+"Star Micronics Co., Ltd",7718.T,Industrials
+NIPPON SIGNAL LTD,6741.T,Information Technology
+"Doshisha Co.,Ltd",7483.T,Consumer Discretionary
+C.I. Takiron Corporation,4215.T,Materials
+"Tokushu Tokai Paper Co., Ltd",3708.T,Materials
+Fujio Food System Ltd,2752.T,Consumer Discretionary
+SanBio Company Limited,4592.T,Health Care
+"Kabuki-Za Co., Ltd",9661.T,Real Estate
+"Aida Engineering, Ltd",6118.T,Industrials
+Mtg Ltd,7806.T,Consumer Staples
+United Arrows Ltd,7606.T,Consumer Discretionary
+Aichi Corporation,6345.T,Industrials
+Oro Ltd,3983.T,Information Technology
+"Iino Kaiun Kaisha, Ltd",9119.T,Industrials
+Mitsuboshi Belting Ltd,5192.T,Industrials
+"Ringer Hut Co.,Ltd",8200.T,Consumer Discretionary
+Seikagaku Corporation,4548.T,Health Care
+Daiken Corporation,7905.T,Materials
+Inui Global Logistics Co Ltd,9308.T,Unknown
+Obara Group Incorporated,6877.T,Industrials
+"MITSUI-SOKO HOLDINGS Co., Ltd",9302.T,Industrials
+Nippon Pillar Packing Co. Ltd.,6490.T,Materials
+"Katakura Industries Co.,Ltd",3001.T,Industrials
+Kansai Super Market Ltd,9919.T,Consumer Staples
+"The Keiyo Bank, Ltd",8544.T,Financials
+AOKI Holdings Inc,8214.T,Consumer Discretionary
+TOWA Corporation,6315.T,Information Technology
+PKSHA Technology Inc,3993.T,Information Technology
+"Medical Data Vision Co., Ltd",3902.T,Health Care
+"Fujicco Co., Ltd",2908.T,Consumer Staples
+Bourbon Corporation,2208.T,Consumer Staples
+Takasago International Corporation,4914.T,Materials
+SoftBank Technology Corp,4726.T,Information Technology
+S&B Foods Inc,2805.T,Consumer Staples
+"Nissei Asb Machine Co., Ltd",6284.T,Industrials
+"GOLDCREST Co., Ltd",8871.T,Real Estate
+Japan Medical Dynamic Marketing In,7600.T,Health Care
+"Kanto Denka Kogyo Co., Ltd",4047.T,Materials
+SIIX Corporation,7613.T,Information Technology
+UKC Holdings Corporation,3156.T,Information Technology
+"Toyo Construction Co., Ltd",1890.T,Industrials
+Yokowo Ltd,6800.T,Information Technology
+"Ichikoh Industries, Ltd",7244.T,Consumer Discretionary
+The Pack Corporation,3950.T,Materials
+"Zenrin Co., Ltd",9474.T,Communication Services
+"Kisoji Co., Ltd",8160.T,Consumer Discretionary
+Tosei Corporation,8923.T,Real Estate
+"Nittetsu Mining Co., Ltd",1515.T,Materials
+"PIOLAX, Inc",5988.T,Consumer Discretionary
+Taki Chemical Ltd,4025.T,Materials
+"SPARX Group Co., Ltd",8739.T,Financials
+"Koshidaka Holdings Co., Ltd",2157.T,Consumer Discretionary
+Em Systems Co Ltd,4820.T,Health Care
+Shin Nippon Air Technologies Co. Ltd,1952.T,Industrials
+"Mie Kotsu Group Holdings, Inc",3232.T,Industrials
+"Daiichi Jitsugyo Co., Ltd",8059.T,Industrials
+"Dai-Dan Co., Ltd",1980.T,Industrials
+"The Toho Bank, Ltd",8346.T,Financials
+Vector Inc,6058.T,Communication Services
+Sinko Industries Ltd,6458.T,Industrials
+Aichi Steel Corporation,5482.T,Materials
+"Matsuya Co., Ltd",8237.T,Consumer Discretionary
+"Wakita & Co.,LTD",8125.T,Industrials
+"Taihei Dengyo Kaisha, Ltd",1968.T,Industrials
+"Teikoku Sen-i Co., Ltd",3302.T,Industrials
+Jdc Corp,1887.T,Industrials
+"Keiyo Co., Ltd",8168.T,Consumer Discretionary
+"Sun Frontier Fudousan Co., Ltd",8934.T,Real Estate
+"TOMONY Holdings, Inc",8600.T,Financials
+"Qol Holdings Co., Ltd",3034.T,Consumer Staples
+"Tamron Co.,Ltd",7740.T,Consumer Discretionary
+"Aisan Industry Co., Ltd",7283.T,Consumer Discretionary
+"OPTEX Group Co., Ltd",6914.T,Information Technology
+Oiles Corporation,6282.T,Industrials
+"Yokohama Reito Co.,Ltd",2874.T,Consumer Staples
+Geo Holdings Corporation,2681.T,Consumer Discretionary
+Nishimoto Co Ltd,9260.T,Consumer Staples
+Japan Pulp and Paper Company Limited,8032.T,Industrials
+"Nippon Sheet Glass Company, Limited",5202.T,Industrials
+"Japan Meat Co.,Ltd",3539.T,Consumer Staples
+JIG-SAW INC,3914.T,Information Technology
+Gmo Cloud Kk,3788.T,Information Technology
+"Miroku Jyoho Service Co., Ltd",9928.T,Information Technology
+"Retail Partners Co., Ltd",8167.T,Consumer Staples
+"Ryosan Company, Limited",8140.T,Information Technology
+"The Furukawa Battery Co., Ltd",6937.T,Unknown
+Nippon Fine Chemical Ltd,4362.T,Materials
+Yurtec Corporation,1934.T,Industrials
+"World Holdings Co., Ltd",2429.T,Industrials
+Espec Corp,6859.T,Information Technology
+Takara Leben Real Estate Reit Corp,3492.T,Real Estate
+Hosiden Corporation,6804.T,Information Technology
+Hosokawa Micron Corporation,6277.T,Industrials
+"TPR Co., Ltd",6463.T,Consumer Discretionary
+Shinnihon Corporation,1879.T,Industrials
+Cawachi Limited,2664.T,Consumer Staples
+"NIPPON PARKING DEVELOPMENT Co.,Ltd",2353.T,Industrials
+"Micronics Japan Co.,Ltd",6871.T,Information Technology
+"Nippon Koei Co., Ltd",1954.T,Industrials
+YAMABIKO CORP,6250.T,Industrials
+"Misawa Homes Co., Ltd",1722.T,Consumer Discretionary
+"Okuwa Co., Ltd",8217.T,Consumer Staples
+"Nippon Denko Co., Ltd",5563.T,Materials
+"Tsukishima Kikai Co., Ltd",6332.T,Industrials
+"Dainichiseika Color & Chemicals Mfg. Co., Ltd",4116.T,Materials
+"Uchida Yoko Co., Ltd",8057.T,Information Technology
+"Broadleaf Co., Ltd",3673.T,Information Technology
+"Ishihara Sangyo Kaisha, Ltd",4028.T,Materials
+"Nihon Chouzai Co.,Ltd",3341.T,Consumer Staples
+Healthcare & Medical Investment Corporation,3455.T,Real Estate
+"Yakuodo Co., Ltd",3385.T,Consumer Staples
+JSP Corporation,7942.T,Materials
+Enigmo Inc,3665.T,Consumer Discretionary
+"Tokyo Kiraboshi Financial Group, Inc",7173.T,Financials
+"Furukawa Co.,Ltd",5715.T,Industrials
+"Lifull Co., Ltd",2120.T,Communication Services
+Yakuodo Holdings Ltd,7679.T,Consumer Staples
+"KNT-CT Holdings Co., Ltd",9726.T,Consumer Discretionary
+"Senshu Ikeda Holdings, Inc",8714.T,Financials
+"Xebio Holdings Co., Ltd",8281.T,Consumer Discretionary
+Key Coffee Inc,2594.T,Consumer Staples
+"The Bank of Nagoya, Ltd",8522.T,Financials
+"The Eighteenth Bank, Limited",8396.T,Financials
+Sumitomo Seika Chemicals Company Limited,4008.T,Materials
+Tosei Reit Investment Corporation,3451.T,Real Estate
+Morningstar Japan K.K.,4765.T,Unknown
+"Rock Field Co., Ltd",2910.T,Consumer Discretionary
+TOA Corporation,1885.T,Industrials
+"Nippon Carbon Co., Ltd",5302.T,Industrials
+"Kojima Co.,Ltd",7513.T,Consumer Discretionary
+DaikyoNishikawa Corporation,4246.T,Consumer Discretionary
+"Chugoku Marine Paints, Ltd",4617.T,Materials
+Aruhi Corp,7198.T,Financials
+W-SCOPE Corporation,6619.T,Materials
+World Ltd,3612.T,Consumer Discretionary
+"Nippon Coke & Engineering Company, Limited",3315.T,Energy
+"Fujibo Holdings, Inc",3104.T,Consumer Discretionary
+"Computer Engineering & Consulting, Ltd",9692.T,Information Technology
+"The Hyakujushi Bank, Ltd",8386.T,Financials
+"TACHI-S Co., Ltd",7239.T,Consumer Discretionary
+Elematec Corporation,2715.T,Information Technology
+"Hibiya Engineering, Ltd",1982.T,Industrials
+"Chori Co., Ltd",8014.T,Industrials
+FURYU Corporation,6238.T,Unknown
+NEC Capital Solutions Limited,8793.T,Financials
+"Sodick Co., Ltd",6143.T,Industrials
+Komori Corporation,6349.T,Industrials
+"ZIGExN Co., Ltd",3679.T,Communication Services
+"Tanseisha Co., Ltd",9743.T,Industrials
+"Gakken Holdings Co., Ltd",9470.T,Communication Services
+Shibaura Electronics Co Ltd,6957.T,Unknown
+"Onward Holdings Co., Ltd",8016.T,Consumer Discretionary
+"Osaka Steel Co., Ltd",5449.T,Materials
+"Mitsui E&S Holdings Co., Ltd",7003.T,Industrials
+"V Technology Co., Ltd",7717.T,Information Technology
+"Sanyo Electric Railway Co.,Ltd",9052.T,Industrials
+Yamashin-Filter Corp,6240.T,Industrials
+"The Aomori Bank, Ltd",8342.T,Financials
+"Marudai Food Co., Ltd",2288.T,Consumer Staples
+Sankei Real Estate Reit Inc,2972.T,Real Estate
+"Daito Pharmaceutical Co.,Ltd",4577.T,Health Care
+Akatsuki Inc,3932.T,Communication Services
+"Futaba Industrial Co., Ltd",7241.T,Consumer Discretionary
+"Sanei Architecture Planning Co.,Ltd",3228.T,Unknown
+"Tsurumi Manufacturing Co., Ltd",6351.T,Industrials
+K&O Energy Group Inc,1663.T,Utilities
+ALCONIX Corporation,3036.T,Industrials
+"Tonami Holdings Co., Ltd",9070.T,Industrials
+Altech Corporation,4641.T,Industrials
+Marvelous Inc,7844.T,Communication Services
+"Koatsu Gas Kogyo Co., Ltd",4097.T,Materials
+"Denyo Co., Ltd",6517.T,Industrials
+Unipres Corporation,5949.T,Consumer Discretionary
+"ASKA Pharmaceutical Co., Ltd",4514.T,Health Care
+Software Service Inc,3733.T,Health Care
+"Central Security Patrols Co., Ltd",9740.T,Industrials
+Starzen Company Limited,8043.T,Consumer Staples
+"Watami Co., Ltd",7522.T,Consumer Discretionary
+"Marusan Securities Co., Ltd",8613.T,Financials
+"Vital KSK Holdings, Inc",3151.T,Health Care
+Chatwork Ltd,4448.T,Information Technology
+Cresco Ltd,4674.T,Unknown
+Fukuda Corporation,1899.T,Industrials
+"Nihon Nohyaku Co., Ltd",4997.T,Materials
+"Digital Hearts Holdings Co.,Ltd",3676.T,Information Technology
+MTI Ltd,9438.T,Communication Services
+"Nichireki Co., Ltd",5011.T,Industrials
+Nippon Chemi-Con Corporation,6997.T,Information Technology
+Kamei Corporation,8037.T,Industrials
+"MINISTOP Co., Ltd",9946.T,Consumer Staples
+"Warabeya Nichiyo Holdings Co., Ltd",2918.T,Consumer Staples
+Ryoyo Electro Corporation,8068.T,Information Technology
+"Bando Chemical Industries, Ltd",5195.T,Industrials
+Ryobi Limited,5851.T,Industrials
+"Pacific Metals Co., Ltd",5541.T,Materials
+AMUSE Inc,4301.T,Communication Services
+"Sintokogio,Ltd",6339.T,Industrials
+"Shinoken Group Co., Ltd",8909.T,Real Estate
+"Hodogaya Chemical Co., Ltd",4112.T,Materials
+"Japan Investment Adviser Co., Ltd",7172.T,Financials
+"KOMATSU MATERE Co., Ltd",3580.T,Unknown
+OYO Corporation,9755.T,Industrials
+"Aoyama Trading Co., Ltd",8219.T,Consumer Discretionary
+"FTGroup Co., Ltd",2763.T,Unknown
+"Nippon Yakin Kogyo Co., Ltd",5480.T,Materials
+"Nitto Kohki Co., Ltd",6151.T,Industrials
+Escon Japan Reit Investment Reit C,2971.T,Real Estate
+"The Aichi Bank, Ltd",8527.T,Financials
+Sala Corp,2734.T,Unknown
+"Poletowin Pitcrew Holdings, Inc",3657.T,Information Technology
+"Rheon Automatic Machinery Co., Ltd",6272.T,Industrials
+"Furuno Electric Co., Ltd",6814.T,Unknown
+"Toho Zinc Co., Ltd",5707.T,Materials
+Sinanen Holdings Co Ltd,8132.T,Energy
+"Sakai Chemical Industry Co., Ltd",4078.T,Materials
+"Taiko Pharmaceutical Co.,Ltd",4574.T,Health Care
+"Aiphone Co.,Ltd",6718.T,Unknown
+"Advan Co., Ltd",7463.T,Industrials
+Krosaki Harima Corporation,5352.T,Materials
+FDK CORP,6955.T,Industrials
+"OPT Holding, Inc",2389.T,Communication Services
+Kurabo Industries Ltd,3106.T,Consumer Discretionary
+"Shin Nippon Biomedical Laboratories, Ltd",2395.T,Health Care
+S.T. Corporation,4951.T,Consumer Staples
+Japan Transcity Corporation,9310.T,Unknown
+SHINDENGEN ELECTRIC MANUFACTURING,6844.T,Information Technology
+Tachibana Eletech Co. Ltd,8159.T,Information Technology
+"BRONCO BILLY Co., LTD",3091.T,Consumer Discretionary
+"Valqua, Ltd",7995.T,Materials
+ANEST IWATA Corporation,6381.T,Industrials
+"LEC, Inc",7874.T,Consumer Discretionary
+"Nippon Thompson Co., Ltd",6480.T,Industrials
+"STUDIO ALICE Co.,Ltd",2305.T,Consumer Discretionary
+"Dai-ichi Seiko Co., Ltd",6640.T,Information Technology
+"Sanoh Industrial Co., Ltd",6584.T,Unknown
+"Asahi Diamond Industrial Co., Ltd",6140.T,Industrials
+"Meisei Industrial Co., Ltd",1976.T,Industrials
+Yondoshi Holdings Inc,8008.T,Consumer Discretionary
+"SFP Holdings Co., Ltd",3198.T,Consumer Discretionary
+"Nichiban Co., Ltd",4218.T,Industrials
+Ryoden Corporation,8084.T,Unknown
+Ebase Ltd,3835.T,Information Technology
+Fujitsu Frontech Limited,6945.T,Unknown
+"TOA Oil Co., Ltd",5008.T,Unknown
+San Ju San Financial Group Inc,7322.T,Financials
+Asanuma Corp,1852.T,Unknown
+"Hakuto Co., Ltd",7433.T,Unknown
+"Aeon Fantasy Co., Ltd",4343.T,Consumer Discretionary
+"Nagatanien Holdings Co.,Ltd",2899.T,Consumer Staples
+Stella Chemifa Corporation,4109.T,Materials
+INES Corporation,9742.T,Information Technology
+"The Miyazaki Bank, Ltd",8393.T,Financials
+"Press Kogyo Co., Ltd",7246.T,Consumer Discretionary
+"Shinagawa Refractories Co., Ltd",5351.T,Unknown
+Tokyo Energy & Systems Inc,1945.T,Unknown
+Roland DG Corporation,6789.T,Information Technology
+"Iseki & Co., Ltd",6310.T,Industrials
+"Access Co., Ltd",4813.T,Information Technology
+OSJB Holdings Corporation,5912.T,Industrials
+Japan Best Rescue System Ltd,2453.T,Consumer Discretionary
+Rpa Holdings Inc,6572.T,Communication Services
+"Tokyo Individualized Educational Institute, Inc",4745.T,Unknown
+Hakudo Co Ltd,7637.T,Unknown
+"UNITED, Inc",2497.T,Information Technology
+Kamakura Shinsho Ltd,6184.T,Communication Services
+Riken Technos Corporation,4220.T,Unknown
+"Tsutsumi Jewelry Co., Ltd",7937.T,Consumer Discretionary
+"SRA Holdings, Inc",3817.T,Unknown
+"Takara Leben Co., Ltd",8897.T,Real Estate
+NS Tool Co Ltd,6157.T,Unknown
+"The Fukui Bank, Ltd",8362.T,Financials
+"Asahi Co., Ltd",3333.T,Consumer Discretionary
+"Onoken Co., Ltd",7414.T,Unknown
+"Yamaichi Electronics Co., Ltd",6941.T,Information Technology
+"Yahagi Construction Co.,Ltd",1870.T,Industrials
+Ohara Inc,5218.T,Information Technology
+Icom Incorporated,6820.T,Information Technology
+Toyo Engineering Corporation,6330.T,Industrials
+"Saint Marc Holdings Co., Ltd",3395.T,Consumer Discretionary
+"Chubu Shiryo Co., Ltd",2053.T,Consumer Staples
+France Bed Holdings Co. Ltd,7840.T,Health Care
+JVC KENWOOD Corporation,6632.T,Consumer Discretionary
+MORIROKU HLDGS Rg,4249.T,Unknown
+Sumida Corporation,6817.T,Information Technology
+Fj Next Co Ltd,8935.T,Unknown
+Shinkawa Ltd,6274.T,Information Technology
+Japan Communications Inc,9424.T,Communication Services
+"Okabe Co., Ltd",5959.T,Industrials
+Ai Inside Inc,4488.T,Information Technology
+"IwaiCosmo Holdings, Inc",8707.T,Unknown
+"Bank of The Ryukyus, Limited",8399.T,Financials
+"Seikitokyu Kogyo Co., Ltd",1898.T,Unknown
+Daishinku Corp,6962.T,Information Technology
+BP Castrol K.K,5015.T,Unknown
+"Tatsuta Electric Wire & Cable Co., Ltd",5809.T,Industrials
+Happinet Corporation,7552.T,Consumer Discretionary
+U-Shin Ltd,6985.T,Unknown
+"TSI Holdings Co.,Ltd",3608.T,Consumer Discretionary
+"Kyokuyo Co., Ltd",1301.T,Consumer Staples
+"The Shibusawa Warehouse Co., Ltd",9304.T,Unknown
+Sanden Holdings Corporation,6444.T,Consumer Discretionary
+"F@N Communications, Inc",2461.T,Communication Services
+"Sanyo Trading Co., Ltd",3176.T,Unknown
+"Macromill, Inc",3978.T,Communication Services
+"Sinfonia Technology Co.,Ltd",6507.T,Industrials
+FUTABA CORP,6986.T,Industrials
+"Tomoku Co., Ltd",3946.T,Unknown
+"Rokko Butter Co., Ltd",2266.T,Consumer Staples
+Gecoss Corporation,9991.T,Industrials
+"Nippon Commercial Development Co., Ltd",3252.T,Real Estate
+KITO Corporation,6409.T,Industrials
+TDC Soft Inc,4687.T,Unknown
+"Ichinen Holdings Co., Ltd",9619.T,Unknown
+Ps Mitsubishi Construction,1871.T,Unknown
+Baroque Japan Limited,3548.T,Unknown
+Serverworks Ltd,4434.T,Information Technology
+"Funai Electric Co., Ltd",6839.T,Consumer Discretionary
+"Shinko Shoji Co., Ltd",8141.T,Information Technology
+SourceNext Corporation,4344.T,Information Technology
+"The Shikoku Bank, Ltd",8387.T,Financials
+DKS Co. Ltd,4461.T,Materials
+Nissin Corporation,9066.T,Industrials
+"The Ehime Bank, Ltd",8541.T,Financials
+"Cosel Co., Ltd",6905.T,Industrials
+"i-mobile Co.,Ltd",6535.T,Unknown
+Shinsho Corporation,8075.T,Industrials
+Japan Display Inc,6740.T,Information Technology
+Grace Technology Inc,6541.T,Industrials
+"Shinwa Co., Ltd",7607.T,Unknown
+"Can Do Co., Ltd",2698.T,Consumer Discretionary
+"The Chukyo Bank, Limited",8530.T,Financials
+Tayca Corporation,4027.T,Materials
+Ateam Inc,3662.T,Communication Services
+Space Value Holdings Co Ltd,1448.T,Unknown
+istyle Inc,3660.T,Consumer Discretionary
+"Nippon Sharyo, Ltd",7102.T,Industrials
+Fujita Kanko Inc,9722.T,Consumer Discretionary
+"The Oita Bank, Ltd",8392.T,Financials
+Hochiki Corporation,6745.T,Information Technology
+"The Bank of Iwate, Ltd",8345.T,Financials
+Tsuzuki Denki Co Ltd,8157.T,Unknown
+Asahi Broadcasting Group Holdings Corporation,9405.T,Unknown
+"Tokyo Base Co., Ltd",3415.T,Consumer Discretionary
+"OSAKA Titanium technologies Co.,Ltd",5726.T,Materials
+Adways Inc,2489.T,Consumer Discretionary
+"Akebono Brake Industry Co., Ltd",7238.T,Consumer Discretionary
+"Denki Kogyo Co.,Ltd",6706.T,Information Technology
+"Kyosan Electric Manufacturing Co., Ltd",6742.T,Information Technology
+Tanaka Chemical Corporation,4080.T,Materials
+"Gurunavi, Inc",2440.T,Communication Services
+Sagami Holdings Corporation,9900.T,Consumer Discretionary
+"Arisawa Mfg. Co., Ltd",5208.T,Information Technology
+"HITO-Communications, Inc",3654.T,Industrials
+IJT Technology Holdings Co,7315.T,Unknown
+Heroz Inc,4382.T,Communication Services
+"Feedone Co., Ltd",2060.T,Consumer Staples
+Yorozu Corporation,7294.T,Consumer Discretionary
+"Chiyoda Integre Co.,Ltd",6915.T,Industrials
+Tekken Corporation,1815.T,Industrials
+"Honeys Holdings Co., Ltd",2792.T,Unknown
+Mitsuba Corporation,7280.T,Consumer Discretionary
+"Topy Industries, Limited",7231.T,Materials
+"Airport Facilities Co., Ltd",8864.T,Real Estate
+"Nippon Air conditioning Services Co., Ltd",4658.T,Unknown
+"AOI Electronics Co., Ltd",6832.T,Unknown
+"Chimney Co., Ltd",3178.T,Unknown
+Shibaura Mechatronics Corp,6590.T,Unknown
+"Daido Metal Co., Ltd",7245.T,Consumer Discretionary
+Nittoc Construction Co Ltd,1929.T,Unknown
+JAMCO Corporation,7408.T,Industrials
+Win-Partners Co Ltd,3183.T,Unknown
+"Vitec Holdings Co., Ltd",9957.T,Unknown
+"Hinokiya Group Co.,Ltd",1413.T,Consumer Discretionary
+"Fuji Pharma Co., Ltd",4554.T,Health Care
+"Japan Tissue Engineering Co., Ltd",7774.T,Health Care
+"The Yamagata Bank, Ltd",8344.T,Financials
+CAC Holdings Corporation,4725.T,Unknown
+"Nihon Trim Co., Ltd",6788.T,Industrials
+"The Yamanashi Chuo Bank, Ltd",8360.T,Financials
+TOYO Corporation,8151.T,Information Technology
+Riken Corporation,6462.T,Consumer Discretionary
+"Raysum Co., Ltd",8890.T,Real Estate
+"Hokuetsu Industries Co., Ltd",6364.T,Unknown
+AIT Corporation,9381.T,Unknown
+Mars Group Holdings Corporation,6419.T,Consumer Discretionary
+Nihon Flush Co Ltd,7820.T,Unknown
+Kanaden Corporation,8081.T,Unknown
+"Teikoku Electric Mfg.Co.,Ltd",6333.T,Industrials
+"Osaki Electric Co., Ltd",6644.T,Information Technology
+Asahi Yukizai Corporation,4216.T,Materials
+Fudo Tetra Corporation,1813.T,Industrials
+PRONEXUS Inc,7893.T,Unknown
+"Hokkaido Gas Co., Ltd",9534.T,Utilities
+"CMIC HOLDINGS Co., Ltd",2309.T,Health Care
+Corona Corporation,5909.T,Consumer Discretionary
+Enplas Corporation,6961.T,Information Technology
+Kokusai Pulp & Paper Co Ltd,9274.T,Unknown
+"Sekisui Plastics Co., Ltd",4228.T,Materials
+TOA Corporation,6809.T,Consumer Discretionary
+Nichirin Co Ltd,5184.T,Unknown
+"The Akita Bank, Ltd",8343.T,Financials
+Cookpad Inc,2193.T,Communication Services
+Sakura Sogo REIT Investment Corporation,3473.T,Real Estate
+"Yushin Precision Equipment Co., Ltd",6482.T,Industrials
+"Nihon Kagaku Sangyo Co., Ltd",4094.T,Materials
+"Wakachiku Construction Co., Ltd",1888.T,Industrials
+Sato Shoji Corp,8065.T,Unknown
+"Okura Industrial Co., Ltd",4221.T,Materials
+Kudan Inc,4425.T,Unknown
+Star Mica Holdings Ltd,2975.T,Real Estate
+Quick Co Ltd,4318.T,Unknown
+Autonomous Control Systems Laboratory Ltd,6232.T,Unknown
+"Kyokuto Securities Co., Ltd",8706.T,Financials
+Kondotec Inc,7438.T,Unknown
+"UUUM co.,ltd",3990.T,Communication Services
+Nippon Chemical Industrial Co,4092.T,Unknown
+"Chiyoda Co., Ltd",8185.T,Consumer Discretionary
+KLab Inc,3656.T,Communication Services
+"TATERU, Inc",1435.T,Real Estate
+JBCC Holdings Inc,9889.T,Unknown
+"KENKO Mayonnaise Co.,Ltd",2915.T,Consumer Staples
+"Tomoe Engineering Co., Ltd",6309.T,Industrials
+Xymax Reit Corp,3488.T,Real Estate
+CMK CORP,6958.T,Information Technology
+The Bank of Saga Ltd,8395.T,Financials
+"Matching Service Japan Co., Ltd",6539.T,Unknown
+gumi Inc,3903.T,Information Technology
+Fixstars Corporation,3687.T,Information Technology
+Fuji Corporation Limited,8860.T,Unknown
+Nisso Corp,6569.T,Unknown
+"Arakawa Chemical Industries, Ltd",4968.T,Materials
+Zuiko Corporation,6279.T,Unknown
+"Neturen Co., Ltd",5976.T,Materials
+Toa Road Corporation,1882.T,Unknown
+Genki Sushi Ltd,9828.T,Consumer Discretionary
+"Dai Nippon Toryo Company, Limited",4611.T,Materials
+"NISSHIN FUDOSAN Co., Ltd",8881.T,Real Estate
+"Sankyo Seiko Co., Ltd",8018.T,Unknown
+"Ichiyoshi Securities Co., Ltd",8624.T,Financials
+Juki Corporation,6440.T,Industrials
+"Tokyo Rakutenchi Co.,Ltd",8842.T,Real Estate
+"Taiho Kogyo Co., Ltd",6470.T,Consumer Discretionary
+"Sankyo Tateyama, Inc",5932.T,Industrials
+"Hisaka Works, Ltd",6247.T,Industrials
+"LAC Co., Ltd",3857.T,Information Technology
+"Takaoka Toko Co., Ltd",6617.T,Industrials
+Daitron Co Ltd,7609.T,Unknown
+"Torishima Pump Mfg. Co., Ltd",6363.T,Industrials
+Hoosiers Holdings,3284.T,Unknown
+Artnature Inc,7823.T,Consumer Staples
+"Star Mica Co., Ltd",3230.T,Real Estate
+Ichigo Hotel REIT Investment Corporation,3463.T,Real Estate
+"Nakayama Steel Works, Ltd",5408.T,Materials
+"Kawada Technologies, Inc",3443.T,Industrials
+"Nippon Beet Sugar Manufacturing Co., Ltd",2108.T,Consumer Staples
+"Fuji Oil Company, Ltd",5017.T,Energy
+ITFOR Inc,4743.T,Information Technology
+"Space Co., Ltd",9622.T,Unknown
+"Sec Carbon, Limited",5304.T,Industrials
+"Maezawa Kyuso Industries Co., Ltd",6485.T,Unknown
+"JP-Holdings,Inc",2749.T,Unknown
+"Nakamuraya Co., Ltd",2204.T,Unknown
+PC Depot Corporation,7618.T,Consumer Discretionary
+"Matsui Construction Co., Ltd",1810.T,Industrials
+"Godo Steel, Ltd",5410.T,Materials
+"NanoCarrier Co., Ltd",4571.T,Health Care
+Kourakuen Holdings Corporation,7554.T,Consumer Discretionary
+FIDEA Holdings Co. Ltd,8713.T,Financials
+"Nihon Tokushu Toryo Co., Ltd",4619.T,Consumer Discretionary
+"Renaissance,Incorporated",2378.T,Consumer Discretionary
+"Oenon Holdings, Inc",2533.T,Consumer Staples
+Toyo Kanetsu K.K,6369.T,Energy
+"Inaba Seisakusho Co., Ltd",3421.T,Unknown
+Dear Life Ltd,3245.T,Real Estate
+"T.RAD Co., Ltd",7236.T,Consumer Discretionary
+"Japan Cash Machine Co., Ltd",6418.T,Information Technology
+Harima Chemicals Group Inc,4410.T,Unknown
+"Nac Co., Ltd",9788.T,Unknown
+"Kyodo Printing Co., Ltd",7914.T,Industrials
+"Fuso Pharmaceutical Industries,Ltd",4538.T,Unknown
+Pasco Corporation,9232.T,Unknown
+"SRG Takamiya Co., Ltd",2445.T,Unknown
+Fumakilla Limited,4998.T,Unknown
+Daisyo Corporation,9979.T,Consumer Discretionary
+Nissei Plastic Industrial Co,6293.T,Unknown
+Mr Max Holdings Ltd,8203.T,Unknown
+"Japan Property Management Center Co., Ltd",3276.T,Real Estate
+"H-One Co.,Ltd",5989.T,Unknown
+AOI Tyo Holdings Inc,3975.T,Unknown
+RaQualia Pharma Inc,4579.T,Health Care
+Unitika Ltd,3103.T,Consumer Discretionary
+"YAMADA Consulting Group Co., Ltd",4792.T,Industrials
+Tobishima Corporation,1805.T,Industrials
+Albis Co Ltd,7475.T,Unknown
+"Amiyaki Tei Co., Ltd",2753.T,Consumer Discretionary
+"Iwaki Co., Ltd",6237.T,Unknown
+Achilles Corporation,5142.T,Materials
+"Foster Electric Company, Limited",6794.T,Consumer Discretionary
+Cleanup Corporation,7955.T,Consumer Discretionary
+"Kurimoto, Ltd",5602.T,Unknown
+"Sanshin Electronics Co., Ltd",8150.T,Information Technology
+Marimo Regional Revitalization Rei,3470.T,Real Estate
+"Remixpoint, Inc",3825.T,Information Technology
+"The First Bank Of Toyama, Ltd",7184.T,Financials
+"The Towa Bank, Ltd",8558.T,Financials
+"HOUSE DO Co.,Ltd",3457.T,Unknown
+Seika Corporation,8061.T,Industrials
+ItoKuro Inc,6049.T,Communication Services
+"Mitsui Matsushima Holdings Co., Ltd",1518.T,Industrials
+Sprix Ltd,7030.T,Unknown
+Ooedo Onsen Reit Investment Corporation,3472.T,Real Estate
+"Mito Securities Co., Ltd",8622.T,Unknown
+"RIGHT ON Co., Ltd",7445.T,Consumer Discretionary
+Alinco Incorporated,5933.T,Unknown
+Marubun Corporation,7537.T,Unknown
+"The Tochigi Bank, Ltd",8550.T,Financials
+"Arealink Co., Ltd",8914.T,Real Estate
+Mory Industries Inc,5464.T,Unknown
+Shidax Corp,4837.T,Unknown
+Morito Co Ltd,9837.T,Unknown
+"Maezawa Kasei Industries Co., Ltd",7925.T,Unknown
+Hagiwara Electric Co Ltd,7467.T,Unknown
+"The Shimizu Bank, Ltd",8364.T,Financials
+"Taisei Lamick Co., Ltd",4994.T,Unknown
+"ReproCELL, Inc",4978.T,Health Care
+EF-ON Inc,9514.T,Industrials
+"UMC Electronics Co., Ltd",6615.T,Unknown
+"Daikoku Denki Co., Ltd",6430.T,Unknown
+"Senshukai Co., Ltd",8165.T,Consumer Discretionary
+Hokkan Holdings Ltd,5902.T,Unknown
+Gakujo Co Ltd,2301.T,Unknown
+Asia Pile Holdings Corporation,5288.T,Materials
+"Miyaji Engineering Group,Inc",3431.T,Industrials
+"Mitsubishi Steel Mfg. Co., Ltd",5632.T,Materials
+"ARDEPRO Co., Ltd",8925.T,Real Estate
+"Nihon House Holdings Co., Ltd",1873.T,Unknown
+"Nihon Dempa Kogyo Co., Ltd",6779.T,Information Technology
+Toda Kogyo Corp,4100.T,Unknown
+"Linical Co., Ltd",2183.T,Health Care
+Itoki Corporation,7972.T,Industrials
+"Nippon Concrete Industries Co., Ltd",5269.T,Materials
+"Gfoot Co.,Ltd",2686.T,Unknown
+"SEED Co.,Ltd",7743.T,Health Care
+"Toho Co., Ltd",8142.T,Unknown
+"Fujikura Kasei Co., Ltd",4620.T,Unknown
+"Daiken Medical Co., Ltd",7775.T,Unknown
+Uniden Corp,6815.T,Unknown
+Innotech Corp,9880.T,Unknown
+Fields Corporation,2767.T,Consumer Discretionary
+"Takihyo Co., Ltd",9982.T,Unknown
+"The Chiba Kogyo Bank, Ltd",8337.T,Financials
+Sac's Bar Holdings Inc,9990.T,Consumer Discretionary
+"Namura Shipbuilding Co., Ltd",7014.T,Industrials
+Yamatane Corporation,9305.T,Unknown
+Gunosy Inc,6047.T,Information Technology
+TSUKADA GLOBAL HOLDINGS Inc,2418.T,Unknown
+"Meiko Network Japan Co., Ltd",4668.T,Consumer Discretionary
+Mitsubishi Paper Mills Limited,3864.T,Materials
+"Chuetsu Pulp & Paper Co., Ltd",3877.T,Unknown
+"Yushiro Chemical Industry Co., Ltd",5013.T,Unknown
+Intelligent Wave Inc,4847.T,Unknown
+"Imasen Electric Industrial Co., Ltd",7266.T,Unknown
+"Pepper Food Service Co., Ltd",3053.T,Consumer Discretionary
+"OncoTherapy Science, Inc",4564.T,Health Care
+"The Michinoku Bank, Ltd",8350.T,Financials
+"3-D Matrix, Ltd",7777.T,Health Care
+"Iwasaki Electric Co., Ltd",6924.T,Industrials
+"TOW Co.,Ltd",4767.T,Unknown
+"Satori Electric Co., Ltd",7420.T,Unknown
+"Gakkyusha Co.,Ltd",9769.T,Unknown
+"Laox CO., LTD",8202.T,Consumer Discretionary
+Hiramatsu Inc,2764.T,Consumer Discretionary
+Kitagawa Corporation,6317.T,Unknown
+"Tsukuba Bank, Ltd",8338.T,Financials
+"Tokyo Rope Manufacturing Co., Ltd",5981.T,Materials
+TOLI Corporation,7971.T,Unknown
+"Jimoto Holdings, Inc",7161.T,Financials
+Meiwa Estate Company Limited,8869.T,Unknown
+Yasunaga Corporation,7271.T,Consumer Discretionary
+Nakamoto Packs Co Ltd,7811.T,Unknown
+"Tokyo Tekko Co., Ltd",5445.T,Materials
+Aiming Inc,3911.T,Unknown
+SMK Corporation,6798.T,Information Technology
+FFRI Inc,3692.T,Unknown
+"Kasai Kogyo Co., Ltd",7256.T,Consumer Discretionary
+Excel Co Ltd,7591.T,Unknown
+"Advanced Media, Inc",3773.T,Information Technology
+Kitano Construction Corp,1866.T,Unknown
+"CROOZ, Inc",2138.T,Information Technology
+"Toyo Securities Co., Ltd",8614.T,Unknown
+"The Kita-Nippon Bank, Ltd",8551.T,Financials
+Paris Miki Holdings Inc,7455.T,Unknown
+Eidai Co Ltd,7822.T,Unknown
+"Chugai Ro Co., Ltd",1964.T,Unknown
+"Mercuria Investment Co., Ltd",7190.T,Unknown
+"Sanyo Housing Nagoya Co., Ltd",8904.T,Unknown
+"Rhythm Watch Co., Ltd",7769.T,Unknown
+"Sumitomo Precision Products Co., Ltd",6355.T,Unknown
+"MEDINET Co., Ltd",2370.T,Health Care
+Pegasus Sewing Machine Mfg,6262.T,Unknown
+"Suminoe Textile Co., Ltd",3501.T,Unknown
+"Mugen Estate Co., Ltd",3299.T,Real Estate
+Prospect Co Ltd,3528.T,Real Estate
+Ahresty Corporation,5852.T,Consumer Discretionary
+Sanyo Shokai Ltd,8011.T,Consumer Discretionary
+"Hard Off Corporation Co.,Ltd",2674.T,Unknown
+GEOSTR Corporation,5282.T,Unknown
+Nippon Piston Ring Co Ltd,6461.T,Unknown
+"Tabuchi Electric Co., Ltd",6624.T,Information Technology
+"Atsugi Co., Ltd",3529.T,Unknown
+"Konaka Co.,Ltd",7494.T,Unknown
+"Kato Works Co., Ltd",6390.T,Industrials
+Aeria Inc,3758.T,Unknown
+Tri-Stage Inc,2178.T,Unknown
+"Tokyo Theatres Company, Incorporated",9633.T,Real Estate
+Chiome Bioscience Inc,4583.T,Health Care
+"Nihon Yamamura Glass Co., Ltd",5210.T,Unknown
+"The Daito Bank, Ltd",8563.T,Financials
+"Hokuriku Electric Industry Co.,Ltd",6989.T,Information Technology
+"The Kinki Sharyo Co., Ltd",7122.T,Unknown
+"D. Western Therapeutics Institute, Inc",4576.T,Health Care
+"Morpho, Inc",3653.T,Information Technology
+Helios Techno Holding Co Ltd,6927.T,Unknown
+Trustco Group Holdings Limited,3347.T,Financials
+"CAREER CO., LTD",6198.T,Unknown
+"WirelessGate, Inc",9419.T,Communication Services
+"Kyoto Kimono Yuzen Co.,Ltd",7615.T,Consumer Discretionary
+"NuFlare Technology, Inc",6256.T,Information Technology
+"Odelic Co., Ltd",6889.T,Industrials
+"Yomiuri Land Co., Ltd",9671.T,Consumer Discretionary
+Japan Asia Group Limited,3751.T,Unknown
+Yukiguni Maitake Ltd,1375.T,Consumer Staples
+Itmedia Inc,2148.T,Communication Services
+GENKY STORES INC,2772.T,Consumer Staples
+Nafco Ltd,2790.T,Consumer Discretionary
+Pharma Foods International Ltd,2929.T,Health Care
+Sre Holdings Corp,2980.T,Real Estate
+Cre Inc,3458.T,Real Estate
+Good Com Asset Ltd,3475.T,Real Estate
+Ga Technologies Ltd,3491.T,Communication Services
+V-Cube Inc,3681.T,Communication Services
+Terrasky Ltd,3915.T,Information Technology
+Pr Times Inc,3922.T,Communication Services
+Surala Net Ltd,3998.T,Consumer Discretionary
+Gmo Financial Gate Inc,4051.T,Information Technology
+Plaid Inc,4165.T,Information Technology
+J-Stream Inc,4308.T,Communication
+Edulab Inc,4427.T,Information Technology
+Kaonavi Inc,4435.T,Information Technology
+Hennge Kk,4475.T,Information Technology
+Base Inc,4477.T,Information Technology
+Makuake Inc,4479.T,Industrials
+USEN CORP,4842.T,Consumer Discretionary
+Cellsource Ltd,4880.T,Health Care
+Modalis Therapeutics Corp,4883.T,Health Care
+Aska Pharmaceutical Holdings Ltd,4886.T,Health Care
+Sawai Group Holdings Ltd,4887.T,Health Care
+Shinnihonseiyaku Ltd,4931.T,Consumer Staples
+Premier Anti-Aging Ltd,4934.T,Consumer Staples
+"Nisshin Steel Co., Ltd",5413.T,Materials
+Keeper Technical Laboratory Ltd,6036.T,Materials
+Medpeer Inc,6095.T,Health Care
+"Alpine Electronics, Inc",6816.T,Consumer Discretionary
+Prored Partners Ltd,7034.T,Industrials
+Lifenet Insurance,7157.T,Financials
+Takata Corporation,7312.T,Consumer Discretionary
+Hirogin Holdings Inc,7337.T,Financials
+Wealthnavi Inc,7342.T,Financials
+Direct Marketing Mix Inc,7354.T,Communication Services
+Litalico Inc,7366.T,Consumer Discretionary
+OKAYA &#38; CO LTD COMMON STOCK JPY,7485.T,Industrials
+Bushiroad Inc,7803.T,Communication
+Snow Peak Inc,7816.T,Consumer Discretionary
+Roland Corp,7944.T,Consumer Discretionary
+AT-GROUP CO LTD COMMON STOCK JPY,8293.T,Consumer Discretionary
+Daikyo Incorporated,8840.T,Real Estate
+"NTT Urban Development Co., Ltd",8933.T,Real Estate
+Valuence Holdings Inc,9270.T,Consumer Discretionary
+Usen-Next Holdings Ltd,9418.T,Communication Services
+Deutsche Telekom Ag,9496.T,Communication Services
