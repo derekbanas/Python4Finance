@@ -1,2 +1,0 @@
-- name: git fetch upstream merge push shell action
-  uses: RekGRpth/git-fetch-upstream-merge-push-shell-action@v1
